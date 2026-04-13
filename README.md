@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .cricket one-word domains from Uni
 
 **Public extract:** 9,858 rows · **Live catalog:** 9,858 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/cricket`  
 **Best for:** founders, investors, studios
 
@@ -80,10 +80,10 @@ print(df.head())
 | all.cricket        | resell    | —         | —             | 88             | 48     | 3      | Chengdu West Dimension Digital Technology Co., Ltd. |
 | seventeen.cricket  | premium   | $437.50   | $62.50        | 84             | 62     | 9      | name.com                                            |
 | water.cricket      | available | $31.98    | —             | 108            | 42     | 5      | namecheap                                           |
-| star.cricket       | resell    | —         | —             | 86             | 44     | 4      | Automattic, Inc                                     |
+| golf.cricket       | resell    | —         | —             | 102            | 43     | 4      | West263 International Limited                       |
 | enterprise.cricket | premium   | $455      | $65           | 68             | 61     | 10     | namecheap                                           |
 | sales.cricket      | available | $31.98    | —             | 66             | 42     | 5      | namecheap                                           |
-| golf.cricket       | resell    | —         | —             | 102            | 43     | 4      | West263 International Limited                       |
+| star.cricket       | resell    | —         | —             | 86             | 43     | 4      | Automattic, Inc                                     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CRICKET One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CRICKET One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
