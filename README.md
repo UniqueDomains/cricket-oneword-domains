@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .cricket one-word domains f
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,846 domains · **Median ask:** $277.18 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-17  
+**Last updated:** 2026-05-27  
 **Canonical page:** `https://unique.domains/domains/tld/cricket`  
 **Best for:** founders, investors, studios
 
@@ -74,13 +74,13 @@ print(df.head())
 | Tools.cricket         | premium   | $490      | $70           | 56             | 40     | 5      | namecheap |
 | slots.cricket         | available | $23.59    | $23.59        | 49             | 31     | 5      | namesilo  |
 | stories.cricket       | premium   | $437.50   | —             | 58             | 36     | 7      | name.com  |
-| photos.cricket        | available | $31.98    | —             | 54             | 28     | 6      | namecheap |
+| gods.cricket          | available | $31.98    | —             | 72             | 29     | 4      | namecheap |
 | aliens.cricket        | premium   | $437.50   | —             | 56             | 35     | 6      | name.com  |
-| gods.cricket          | available | $31.98    | —             | 72             | 27     | 4      | namecheap |
+| photos.cricket        | available | $31.98    | —             | 54             | 28     | 6      | namecheap |
 | spectra.cricket       | premium   | $437.50   | —             | 62             | 34     | 7      | name.com  |
 | trades.cricket        | available | $23.59    | $23.59        | 71             | 26     | 6      | namesilo  |
 | teams.cricket         | premium   | $6,250    | —             | 62             | 32     | 5      | name.com  |
-| traders.cricket       | available | $31.98    | —             | 60             | 26     | 7      | namecheap |
+| traders.cricket       | available | $31.98    | —             | 60             | 25     | 7      | namecheap |
 | maps.cricket          | premium   | $437.50   | —             | 56             | 31     | 4      | name.com  |
 | chem.cricket          | available | $31.98    | —             | 74             | 24     | 4      | namecheap |
 | Jim.cricket           | premium   | $490      | $70           | 78             | 28     | 3      | namecheap |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CRICKET One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CRICKET One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
