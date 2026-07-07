@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .cricket one-word domains f
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,846 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,846 domains · **Median ask:** $277.18 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,846 domains · **Median ask:** $373.05 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/cricket`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/cricket`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .CRICKET one-word doma
 
 ### Files
 
-- `cricket.csv` — public CSV extract (1,000 rows)
-- `cricket.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `cricket.csv`, public CSV extract (1,000 rows)
+- `cricket.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain                | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| --------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| jobs.cricket          | available | $31.98    | —             | 79             | 42     | 4      | namecheap |
-| travelers.cricket     | premium   | $437.50   | —             | 58             | 61     | 9      | name.com  |
-| lets.cricket          | available | $31.98    | —             | 77             | 39     | 4      | namecheap |
-| keepthechange.cricket | premium   | $437.50   | —             | 46             | 59     | 15     | name.com  |
-| prompts.cricket       | available | $23.59    | $23.59        | 54             | 39     | 7      | namesilo  |
-| robots.cricket        | premium   | $437.50   | —             | 62             | 47     | 6      | name.com  |
-| neuroscience.cricket  | available | $31.98    | —             | 80             | 37     | 12     | namecheap |
-| Tools.cricket         | premium   | $490      | $70           | 56             | 40     | 5      | namecheap |
-| slots.cricket         | available | $23.59    | $23.59        | 49             | 31     | 5      | namesilo  |
-| stories.cricket       | premium   | $437.50   | —             | 58             | 36     | 7      | name.com  |
-| gods.cricket          | available | $31.98    | —             | 72             | 29     | 4      | namecheap |
-| aliens.cricket        | premium   | $437.50   | —             | 56             | 35     | 6      | name.com  |
-| photos.cricket        | available | $31.98    | —             | 54             | 28     | 6      | namecheap |
-| spectra.cricket       | premium   | $437.50   | —             | 62             | 34     | 7      | name.com  |
-| trades.cricket        | available | $23.59    | $23.59        | 71             | 26     | 6      | namesilo  |
-| teams.cricket         | premium   | $6,250    | —             | 62             | 32     | 5      | name.com  |
-| traders.cricket       | available | $31.98    | —             | 60             | 25     | 7      | namecheap |
-| maps.cricket          | premium   | $437.50   | —             | 56             | 31     | 4      | name.com  |
-| chem.cricket          | available | $31.98    | —             | 74             | 24     | 4      | namecheap |
-| Jim.cricket           | premium   | $490      | $70           | 78             | 28     | 3      | namecheap |
+| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| baby.cricket | available | $23.59    | $23.59        | high           | low    | 4      | namesilo  |
+| arm.cricket  | premium   | $437.50   | —             | high           | medium | 3      | name.com  |
+| brow.cricket | available | $31.98    | —             | medium         | low    | 4      | namecheap |
+| art.cricket  | premium   | $650      | $84.50        | high           | medium | 3      | namecheap |
+| clap.cricket | available | $23.59    | $23.59        | high           | low    | 4      | namesilo  |
+| CNN.cricket  | premium   | $437.50   | —             | high           | low    | 3      | name.com  |
+| desk.cricket | available | $23.59    | $23.59        | high           | low    | 4      | namesilo  |
+| cue.cricket  | premium   | $437.50   | —             | medium         | low    | 3      | name.com  |
+| fold.cricket | available | $23.59    | $23.59        | high           | low    | 4      | namesilo  |
+| dad.cricket  | premium   | $625      | —             | high           | low    | 3      | name.com  |
+| Fran.cricket | available | $23.59    | $23.59        | medium         | low    | 4      | namesilo  |
+| did.cricket  | premium   | $437.50   | —             | high           | low    | 3      | name.com  |
+| giza.cricket | available | $23.59    | $23.59        | high           | low    | 4      | namesilo  |
+| die.cricket  | premium   | $437.50   | —             | medium         | low    | 3      | name.com  |
+| high.cricket | available | $31.98    | —             | medium         | low    | 4      | namecheap |
+| DIY.cricket  | premium   | $437.50   | —             | high           | low    | 3      | name.com  |
+| less.cricket | available | $23.59    | $23.59        | high           | low    | 4      | namesilo  |
+| ear.cricket  | premium   | $437.50   | —             | high           | low    | 3      | name.com  |
+| oval.cricket | available | $31.98    | —             | medium         | low    | 4      | namecheap |
+| fix.cricket  | premium   | $625      | —             | medium         | low    | 3      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This set is entirely made up of .cricket domains, so the main question is fit rather than extension choice. Some names are broad and descriptive, such as watch.cricket or attack.cricket. Others are more flexible brandables, such as stray.cricket or prickly.cricket. There are also obvious caution cases, including terms that may carry trademark risk, such as pepsicola.cricket. When comparing these domains, focus on whether the word is easy to remember, whether it matches a cricket audience or project clearly, and whether the asking price is justified against the median ask of 277 for this selection.
+This selection covers one-word .cricket domain names spanning everyday nouns, verbs, and short phrases such as backyard, getup, and landscaping. With a median ask near $373 across 12,846 listings, the group offers a low-cost entry point for testing brandable names or comparing pricing across a single extension. Because .cricket is a niche TLD, evaluate each name individually for spellability, renewal cost, and trademark clarity before treating any listing as a safe pick.
 
-- All names in this selection use the .cricket extension
-- Median ask across the set is 277
-- Mix of generic, descriptive, and brandable words
-- Check trademark exposure before choosing any branded term
+- 12,846 one-word .cricket domains in this list, updated daily
+- Median ask near $373 across the full .cricket selection
+- Includes short, brandable picks like backyard.cricket and getup.cricket
+- Niche TLD: weigh renewal cost and trademark risk before buying
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CRICKET One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CRICKET One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
