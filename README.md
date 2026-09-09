@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .cricket one-word domains f
 
 **Public extract:** 1,000 rows · **Live catalog:** 21,009 domains · **Median ask:** $260.67 · **High-demand under $2,500:** 30
 
-**Last updated:** 2026-09-08
+**Last updated:** 2026-09-09
 **Canonical page:** `https://unique.domains/domains/tld/cricket`
 **Best for:** founders, investors, studios
 
@@ -76,7 +76,7 @@ print(df.head())
 | cue.cricket  | premium   | $437.50   | —             | medium         | low    | 3      | name.com  |
 | clap.cricket | available | $23.59    | $23.59        | high           | low    | 4      | namesilo  |
 | dad.cricket  | premium   | $625      | —             | high           | low    | 3      | name.com  |
-| desk.cricket | available | $23.59    | $23.59        | high           | low    | 4      | namesilo  |
+| desk.cricket | available | $23.59    | $23.59        | medium         | low    | 4      | namesilo  |
 | did.cricket  | premium   | $437.50   | —             | high           | low    | 3      | name.com  |
 | fold.cricket | available | $23.59    | $23.59        | high           | low    | 4      | namesilo  |
 | die.cricket  | premium   | $437.50   | —             | medium         | low    | 3      | name.com  |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CRICKET One-Word Domains*. Version 2026-09-08. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CRICKET One-Word Domains*. Version 2026-09-09. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
