@@ -1,10 +1,10 @@
-# Available .CRICKET One-Word Domains (33,723)
+# Available .CRICKET One-Word Domains (24,111)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-33%2C723%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-24%2C111%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .cricket one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **33,723 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **24,111 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 33,723 domains · **Median ask:** $221.86 · **High-demand under $2,500:** 27
+**Public extract:** 1,000 rows · **Live catalog:** 24,111 domains · **Median ask:** $310.53 · **High-demand under $2,500:** 54
 
-**Last updated:** 2026-09-25
+**Last updated:** 2026-09-26
 **Canonical page:** `https://unique.domains/domains/tld/cricket`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| agog.cricket     | available | $25.98    | $31.98        | high           | low    | 4      | namecheap       |
-| database.cricket | resell    | —         | —             | high           | low    | 8      | Key-Systems LLC |
-| aaa.cricket      | premium   | $3,250    | $130          | high           | medium | 3      | namecheap       |
-| ague.cricket     | available | $25.98    | $31.98        | medium         | low    | 4      | namecheap       |
-| abo.cricket      | premium   | $625      | $81.25        | high           | low    | 3      | name.com        |
-| auld.cricket     | available | $23.59    | $23.59        | medium         | low    | 4      | namesilo        |
-| aft.cricket      | premium   | $625      | $81.25        | high           | low    | 3      | name.com        |
-| awry.cricket     | available | $23.59    | $23.59        | medium         | low    | 4      | namesilo        |
-| arm.cricket      | premium   | $437.50   | —             | high           | medium | 3      | name.com        |
-| baby.cricket     | available | $23.59    | $23.59        | high           | low    | 4      | namesilo        |
-| bar.cricket      | premium   | $6,250    | —             | high           | low    | 3      | name.com        |
-| brow.cricket     | available | $31.98    | —             | high           | low    | 4      | namecheap       |
-| bus.cricket      | premium   | $437.50   | —             | high           | low    | 3      | name.com        |
-| cali.cricket     | available | $23.59    | $23.59        | high           | low    | 4      | namesilo        |
-| cnn.cricket      | premium   | $437.50   | —             | high           | low    | 3      | name.com        |
-| clap.cricket     | available | $23.59    | $23.59        | high           | low    | 4      | namesilo        |
-| cue.cricket      | premium   | $437.50   | —             | high           | low    | 3      | name.com        |
-| desk.cricket     | available | $23.59    | $23.59        | high           | low    | 4      | namesilo        |
-| dad.cricket      | premium   | $625      | —             | high           | low    | 3      | name.com        |
-| fact.cricket     | available | $23.59    | $23.59        | high           | low    | 4      | namesilo        |
+| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| aave.cricket | available | $23.59    | $23.59        | medium         | low    | 4      | namesilo  |
+| add.cricket  | premium   | $625      | —             | high           | low    | 3      | name.com  |
+| aide.cricket | available | $23.59    | $23.59        | high           | low    | 4      | namesilo  |
+| arp.cricket  | premium   | $448      | $53.92        | high           | low    | 3      | namesilo  |
+| apar.cricket | available | $23.59    | $23.59        | medium         | low    | 4      | namesilo  |
+| ate.cricket  | premium   | $437.50   | —             | high           | low    | 3      | name.com  |
+| bali.cricket | available | $23.59    | $23.59        | high           | medium | 4      | namesilo  |
+| atf.cricket  | premium   | $455      | $65           | high           | low    | 3      | namecheap |
+| bawl.cricket | available | $23.59    | $23.59        | medium         | low    | 4      | namesilo  |
+| bns.cricket  | premium   | $455      | $65           | high           | low    | 3      | namecheap |
+| berk.cricket | available | $23.59    | $23.59        | medium         | low    | 4      | namesilo  |
+| chu.cricket  | premium   | $448      | $53.92        | medium         | low    | 3      | namesilo  |
+| cars.cricket | available | $23.59    | $23.59        | high           | medium | 4      | namesilo  |
+| cot.cricket  | premium   | $437.50   | —             | high           | low    | 3      | name.com  |
+| died.cricket | available | $23.59    | $23.59        | low            | low    | 4      | namesilo  |
+| gee.cricket  | premium   | $437.50   | —             | high           | low    | 3      | name.com  |
+| dopy.cricket | available | $23.59    | $23.59        | medium         | low    | 4      | namesilo  |
+| hen.cricket  | premium   | $448      | $53.92        | high           | low    | 3      | namesilo  |
+| fall.cricket | available | $23.59    | $23.59        | high           | low    | 4      | namesilo  |
+| hub.cricket  | premium   | $12,500   | —             | high           | medium | 3      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 33,723 live domains                        |
+| 1,000-row public sample | 24,111 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 27 high-demand names under $2,500          |
+| Basic exported fields   | 54 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CRICKET One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CRICKET One-Word Domains*. Version 2026-09-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
