@@ -18,6 +18,7 @@ bdbfab06-f91f-46e5-987b-76e61ec9e8d9,mechanic.cricket,available,23.59,23.59,high
 9a8b3b00-3670-4a01-be32-1b73c2248b87,disgrace.cricket,available,23.59,23.59,high,low,8,namesilo,,,
 4958f6ad-a924-4f3a-8b18-ce63e9137111,arithmancy.cricket,available,23.59,23.59,medium,low,10,namesilo,,,20/09/2026 06:00
 1ba526d9-d88f-4b4f-a555-6fba58d5c84e,aerobe.cricket,available,23.59,23.59,medium,low,6,namesilo,,,17/09/2026 12:54
+507c8d1f-5b28-474e-8f00-363c22b2ca3c,douglas.cricket,premium,448,53.92,high,low,7,namesilo,,,27/09/2026 13:08
 4896508c-b1a7-425f-ab46-d8e9036417a5,unwavering.cricket,available,23.59,23.59,high,low,10,namesilo,,,18/08/2026 05:12
 9275b96c-4a39-4c44-957c-fa6a0c872fc8,strand.cricket,premium,437.5,62.5,high,low,6,name.com,,,24/08/2026 16:26
 8dbfd013-cbf6-4a1f-b262-4ada11f16f91,compute.cricket,available,23.59,23.59,high,low,7,namesilo,,,19/09/2026 14:03
@@ -40,18 +41,19 @@ af105a77-5fd1-4c5c-83f0-5288011f1e87,adios.cricket,premium,437.5,,high,low,5,nam
 968231aa-e06b-4445-aa56-b7815d16b1bd,veinal.cricket,available,23.59,23.59,low,low,6,namesilo,,,13/09/2026 01:51
 1f507146-c23d-4956-923a-df4411e0ac62,oaten.cricket,available,23.59,23.59,medium,low,5,namesilo,,,03/09/2026 23:28
 63aa8bf8-01ab-47e9-82ac-28242bbf7f75,hays.cricket,premium,448,53.92,medium,low,4,namesilo,,,20/09/2026 10:51
-c5d92162-46d3-491d-8a8e-4c7b170f442c,their.cricket,available,,,high,low,5,,,,
+c5d92162-46d3-491d-8a8e-4c7b170f442c,their.cricket,available,,,medium,low,5,,,,
 03561a85-7d7c-471e-b986-1e327d1af156,hyaloid.cricket,available,23.59,23.59,medium,low,7,namesilo,,,21/08/2026 16:08
 bc46d96f-1998-4164-91aa-c40c87bf716b,pasta.cricket,available,23.59,23.59,high,low,5,namesilo,,,
 64f12e32-8c6a-4b29-9d6e-121bbeca17aa,puts.cricket,available,23.59,23.59,medium,low,4,namesilo,,,18/09/2026 14:17
 59963baa-f0fc-4f0a-949c-15a9867e2d25,aglet.cricket,available,25.98,31.98,medium,low,5,namecheap,,,17/09/2026 18:21
+4c329c43-f753-4bee-8258-27d065387dc3,haifa.cricket,available,20.88,20.88,high,low,5,spaceship,,,28/09/2026 02:03
 1dfb2de9-eb29-4ff4-801b-ed6076c56152,philippi.cricket,premium,448,53.92,medium,low,8,namesilo,,,22/09/2026 15:38
 50493a8f-7c3c-4e1c-b3fb-ac072ef55d08,pulls.cricket,available,23.59,23.59,medium,low,5,namesilo,,,16/09/2026 23:15
 9c70d891-830b-4183-977d-c5d0b81d94a6,bloody.cricket,premium,6900,116,high,low,6,namesilo,,,22/09/2026 00:33
 165bd55c-90d1-4fa1-a04a-0616770e3be3,visualise.cricket,available,23.59,23.59,high,low,9,namesilo,,,24/09/2026 16:40
-c758a17f-85da-4a46-a8a8-dfa7b72203bc,flammable.cricket,premium,437.5,62.5,high,low,9,name.com,,,18/08/2026 06:32
-d905cfee-ce5c-476a-b1d4-e58c9b8e04ce,christly.cricket,available,23.59,23.59,high,low,8,namesilo,,,12/08/2026 07:21
-214644ee-b99d-4d2f-bd6a-3a26abf8cb3e,retiring.cricket,available,31.98,,high,low,8,namecheap,,,
+c758a17f-85da-4a46-a8a8-dfa7b72203bc,flammable.cricket,premium,437.5,62.5,medium,low,9,name.com,,,18/08/2026 06:32
+d905cfee-ce5c-476a-b1d4-e58c9b8e04ce,christly.cricket,available,23.59,23.59,medium,low,8,namesilo,,,12/08/2026 07:21
+214644ee-b99d-4d2f-bd6a-3a26abf8cb3e,retiring.cricket,available,21.6,21.6,high,low,8,dynadot,,,27/09/2026 13:20
 ca53a902-2c9a-4549-8446-e85a999cf1df,dissociate.cricket,available,23.59,23.59,medium,low,10,namesilo,,,14/08/2026 11:11
 a4d4b260-dd92-4be8-8c7b-a416387fb64e,koranic.cricket,available,23.59,23.59,medium,low,7,namesilo,,,22/08/2026 16:59
 199cfa68-475e-4fde-9721-44f5a203c7a2,anomia.cricket,premium,448,53.92,medium,low,6,namesilo,,,18/09/2026 22:21
@@ -86,7 +88,7 @@ addddd18-0117-42b8-a2d6-eeb56ee52730,just.cricket,premium,6900,116,high,medium,4
 57d42937-bdab-4c47-aa7f-3a8a075901f3,accede.cricket,premium,455,65,high,low,6,namecheap,,,20/09/2026 16:11
 86b9fa7a-6b7e-4dd5-865b-7146841c5a6c,elegant.cricket,premium,448,53.92,high,low,7,namesilo,,,24/09/2026 13:48
 34a87c4d-0a9b-4a8e-96b8-ef4d236dd53a,dentate.cricket,available,23.59,23.59,medium,low,7,namesilo,,,14/08/2026 01:57
-4773e268-1f93-4501-a847-0b60e27f5643,permeable.cricket,available,23.59,23.59,high,low,9,namesilo,,,08/09/2026 17:36
+4773e268-1f93-4501-a847-0b60e27f5643,permeable.cricket,available,23.59,23.59,medium,low,9,namesilo,,,08/09/2026 17:36
 dbb2fe13-f3a9-4bbf-a9cc-310c77b5dcb7,mbd.cricket,premium,455,65,medium,low,3,namecheap,,,17/09/2026 06:35
 e078ee6e-0f91-4a42-827c-c7b10176a8c3,pans.cricket,premium,448,53.92,medium,low,4,namesilo,,,18/09/2026 08:22
 cb1ae9f4-b7a7-4bc8-b672-212d39d337ad,dawson.cricket,premium,437.5,62.5,high,low,6,name.com,,,25/09/2026 04:48
@@ -108,7 +110,7 @@ cfddb933-8ac2-448a-b95b-ffd051a33d1a,areal.cricket,premium,437.5,62.5,medium,low
 65f5d825-f091-44d5-b144-2c49df0f20ab,astrantia.cricket,available,23.59,23.59,medium,low,9,namesilo,,,20/09/2026 17:32
 6f45b08c-4dbc-43d0-b149-1537146aa522,bakshis.cricket,available,23.59,23.59,medium,low,7,namesilo,,,21/09/2026 15:54
 a1c68670-431e-44fe-96e9-d41df63df526,session.cricket,premium,6250,,high,low,7,name.com,,,
-469632ab-299f-4a86-a027-224a5225b858,klaus.cricket,premium,437.5,62.5,high,low,5,name.com,,,27/09/2026 01:38
+469632ab-299f-4a86-a027-224a5225b858,klaus.cricket,premium,437.5,62.5,medium,low,5,name.com,,,27/09/2026 01:38
 0f62937c-b955-4191-8e3c-b0994746433f,retraction.cricket,available,25.98,31.98,high,low,10,namecheap,,,16/09/2026 15:59
 e17dbde0-0b95-4658-b842-b5b453d0f6c6,depression.cricket,available,23.59,23.59,medium,low,10,namesilo,,,25/09/2026 14:31
 77733aee-a3f5-492a-b80b-90424530baca,heartburn.cricket,available,23.59,23.59,medium,low,9,namesilo,,,
@@ -117,7 +119,7 @@ cc6c5892-0cc1-4430-8cde-f24f166f04c7,absorb.cricket,premium,455,65,high,low,6,na
 0cc7e8b9-2d4d-49c2-ad29-647fa15fcadb,ulterior.cricket,available,23.59,23.59,medium,low,8,namesilo,,,22/08/2026 20:32
 3720b897-3608-40b4-b86f-53f46f4e42ac,overs.cricket,available,25.98,31.98,high,low,5,namecheap,,,20/09/2026 10:07
 ae31c5b6-7292-4539-8f91-3d4922743d4d,acclaim.cricket,premium,448,53.92,high,low,7,namesilo,,,16/09/2026 22:32
-6283c2e7-0771-4fac-ae81-e4fd99c4efb5,respected.cricket,available,23.59,23.59,high,low,9,namesilo,,,
+6283c2e7-0771-4fac-ae81-e4fd99c4efb5,respected.cricket,available,20.18,20.18,high,low,9,cloudflare,,,27/09/2026 12:38
 2b97dc96-955d-4ef7-b860-a450adfc8fc0,forego.cricket,premium,437.5,62.5,high,low,6,name.com,,,18/08/2026 11:52
 19d79213-40cc-48e5-a439-81a54e1b93a7,darkened.cricket,available,34.99,37.99,medium,low,8,name.com,,,13/08/2026 18:08
 55800ae0-f7ef-4ef6-a855-e9bb2d3792d3,atreus.cricket,premium,448,53.92,medium,low,6,namesilo,,,21/09/2026 00:43
@@ -133,11 +135,12 @@ de02c731-c3be-4de2-bed3-92fb2c1df6e9,unearned.cricket,available,23.59,23.59,medi
 f5d24395-3817-4d8d-9a89-c178b3b7ce54,senseless.cricket,premium,455,65,medium,low,9,namecheap,,,03/09/2026 17:48
 50ed187e-4682-41c7-b651-c73c87e7abbd,taped.cricket,premium,437.5,62.5,high,low,5,name.com,,,11/09/2026 08:15
 151a2051-cdca-4368-8d79-e31e158f5475,bite.cricket,premium,116,29.5,high,low,4,namesilo,,,08/09/2026 13:01
-cdda6ec1-4c52-4218-b831-8981b220460c,leggy.cricket,premium,437.5,62.5,high,low,5,name.com,,,22/08/2026 22:57
+cdda6ec1-4c52-4218-b831-8981b220460c,leggy.cricket,premium,437.5,62.5,medium,low,5,name.com,,,22/08/2026 22:57
 199b6d92-56ab-42db-b52c-aacccdb9f46d,waterborne.cricket,premium,448,53.92,medium,low,10,namesilo,,,13/09/2026 08:36
 e000810d-4958-4601-b185-bc05cb4f9313,camus.cricket,premium,448,53.92,high,low,5,namesilo,,,18/09/2026 02:38
 6975f27d-0dab-45af-aef0-cf09e9e712c2,tutelar.cricket,available,25.98,31.98,high,low,7,namecheap,,,13/08/2026 12:23
 22e172f9-f839-4dc4-a8fb-2a61c0b62de6,gracefully.cricket,available,23.59,23.59,high,low,10,namesilo,,,14/09/2026 21:54
+66e2aacc-5736-4c23-807b-31036bb8cb8e,potsdam.cricket,available,23.59,23.59,high,low,7,namesilo,,,27/09/2026 15:23
 cf8214e3-ae1b-49de-a9e4-55285c1131bf,barbara.cricket,premium,448,53.92,high,low,7,namesilo,,,25/09/2026 11:55
 54e252ba-de62-4861-824c-b6c3293fa03b,horrid.cricket,available,23.59,23.59,medium,low,6,namesilo,,,21/08/2026 08:14
 c328d744-ff31-42f7-a4cc-a2275855b626,proceed.cricket,premium,437.5,,high,low,7,name.com,,,
@@ -147,6 +150,7 @@ c328d744-ff31-42f7-a4cc-a2275855b626,proceed.cricket,premium,437.5,,high,low,7,n
 b5cc0630-8dfb-44e8-acce-d1bba8fe5458,sobeit.cricket,available,23.59,23.59,low,low,8,namesilo,,,16/09/2026 13:51
 9cbea3f1-5b46-477b-b1c9-eeaa9bcca3a6,sorely.cricket,available,23.59,23.59,medium,low,6,namesilo,,,16/09/2026 05:13
 d186edf4-5466-435e-ae0b-617a601cedd7,sucked.cricket,available,23.59,23.59,medium,low,6,namesilo,,,18/09/2026 04:29
+4ddbd3e3-e8dc-4108-8727-c7e15c60ef09,cultivars.cricket,available,20.88,20.88,low,low,9,spaceship,,,28/09/2026 00:23
 28a430ab-b1fc-4668-af46-ad0f3a72196c,centrical.cricket,premium,437.5,62.5,medium,low,9,name.com,,,12/08/2026 00:12
 abbd146f-9df6-47c7-a4dc-35d8dbac7103,matthew.cricket,available,25.98,31.98,high,low,7,namecheap,,,25/09/2026 06:38
 722fe369-61de-430b-93f5-69e51029f3e4,dashed.cricket,available,34.99,37.99,medium,low,6,name.com,,,13/08/2026 18:27
@@ -173,7 +177,7 @@ a4c8ac7f-6b1b-48ca-a3a0-83060c95e4fd,stolen.cricket,premium,448,53.92,high,low,6
 bf52449f-5af8-4f3c-8b75-4bc0b474f3d6,antique.cricket,premium,448,53.92,high,low,7,namesilo,,,21/09/2026 22:23
 07c73243-5c82-43b9-9598-d7a962bcdac5,cupric.cricket,available,23.59,23.59,medium,low,6,namesilo,,,13/08/2026 10:49
 778cf4ff-94de-4cab-adfc-467817702d91,hen.cricket,premium,448,53.92,high,low,3,namesilo,,,23/09/2026 13:44
-aeefaa97-6229-4f7c-a2e7-7fc7f675fa21,hothead.cricket,premium,437.5,62.5,high,low,7,name.com,,,13/08/2026 17:45
+aeefaa97-6229-4f7c-a2e7-7fc7f675fa21,hothead.cricket,premium,437.5,62.5,medium,low,7,name.com,,,13/08/2026 17:45
 5ebe2f02-f211-4bc7-bb57-d07aa4847336,unobserved.cricket,available,23.59,23.59,medium,low,10,namesilo,,,12/09/2026 16:04
 afe8cacd-c0a3-43f7-8856-8173ab18ed1f,cube.cricket,premium,437.5,,high,medium,4,name.com,,,
 ed65ca39-5fcb-4944-9a7e-06b858f5c192,boiling.cricket,available,23.59,23.59,high,low,7,namesilo,,,14/09/2026 00:51
@@ -187,19 +191,21 @@ e8573bf3-073f-4d95-96e8-abdb1752c8e4,mat.cricket,premium,437.5,62.5,high,low,3,n
 25d61d0c-f73f-4251-994c-481d45ff0c60,secret.cricket,premium,448,53.92,high,medium,6,namesilo,,,23/09/2026 14:41
 b39090ee-7333-4166-837c-1104f46c2b22,parker.cricket,premium,455,65,high,low,6,namecheap,,,23/09/2026 20:21
 fb911b8f-da80-4bba-9ad5-1259199f57b5,motive.cricket,premium,448,53.92,high,medium,6,namesilo,,,25/09/2026 21:54
+50e98874-41fe-4386-8bc3-8b840c4af589,grain.cricket,premium,448,53.92,high,low,5,namesilo,,,28/09/2026 01:37
 051b61c4-dd9d-41d6-bd2c-5b8a677860cc,acolyte.cricket,premium,448,53.92,high,low,7,namesilo,,,17/09/2026 02:00
-c8c37091-cb86-4d4b-96bd-de778290d0ec,declarer.cricket,available,34.99,37.99,high,low,8,name.com,,,17/09/2026 14:33
+c8c37091-cb86-4d4b-96bd-de778290d0ec,declarer.cricket,available,34.99,37.99,medium,low,8,name.com,,,17/09/2026 14:33
+4ce39007-8dba-4ec9-bcf5-78d409ae7fae,mankind.cricket,premium,455,65,high,low,7,namecheap,,,28/09/2026 02:08
 5b25c0a3-4559-4643-b871-ecc48b330e0c,daylight.cricket,premium,437.5,,high,low,8,name.com,,,
 6b211016-ce09-4526-9e5f-8eff2c79e3c4,sits.cricket,premium,448,53.92,medium,low,4,namesilo,,,17/09/2026 03:03
 269693ee-980c-4d2a-895e-a68362c62447,amsterdam.cricket,available,23.59,23.59,high,low,9,namesilo,,,19/09/2026 00:08
 c0619c1c-3037-4de2-a272-16e7f4e493eb,prefatory.cricket,available,23.59,23.59,high,medium,9,namesilo,,,09/09/2026 01:35
 7e51bc54-a900-4f9f-a59f-05dddb20fc79,justified.cricket,premium,448,53.92,high,low,9,namesilo,,,25/09/2026 12:26
 17fe3ab1-392c-4720-a16b-c95773721e29,vacuum.cricket,premium,437.5,,high,low,6,name.com,,,
-f3808b45-6364-400d-b233-cf4e285e5e40,nascent.cricket,premium,448,53.92,high,low,7,namesilo,,,03/09/2026 13:35
-bad82f49-8466-472a-a1f8-313920ea702d,xxv.cricket,premium,640,77.35,high,low,3,namesilo,,,21/09/2026 12:45
+f3808b45-6364-400d-b233-cf4e285e5e40,nascent.cricket,premium,448,53.92,medium,low,7,namesilo,,,03/09/2026 13:35
+bad82f49-8466-472a-a1f8-313920ea702d,xxv.cricket,premium,640,77.35,medium,low,3,namesilo,,,21/09/2026 12:45
 22b84b84-6e55-4d0d-8be9-fb12d60a366d,orangutan.cricket,available,23.59,23.59,high,low,9,namesilo,,,
 6f3a23b8-7b81-40fc-a916-4bba564e9a65,jobless.cricket,available,23.59,23.59,medium,low,7,namesilo,,,22/08/2026 13:32
-5cb9e2ba-2f78-4051-b2a3-7b6bc579a978,creatures.cricket,premium,448,53.92,high,low,9,namesilo,,,27/09/2026 03:06
+5cb9e2ba-2f78-4051-b2a3-7b6bc579a978,creatures.cricket,premium,448,53.92,medium,low,9,namesilo,,,27/09/2026 03:06
 221fafdf-3e16-479c-9799-e9946da431e1,northward.cricket,available,25.98,31.98,high,low,9,namecheap,,,03/09/2026 21:27
 3202722e-9815-4ade-9830-f2d5f026cffc,consulate.cricket,premium,455,65,high,low,9,namecheap,,,24/09/2026 17:37
 3801992f-e4f1-4878-98cf-8fc4db761fa6,estival.cricket,premium,437.5,62.5,medium,low,7,name.com,,,
@@ -208,13 +214,13 @@ cc6a70c9-74f5-456d-bc73-6794aba52cc9,trex.cricket,premium,448,53.92,high,low,6,n
 6b00955f-b975-462f-8e60-cb9860c4392b,honour.cricket,premium,455,65,high,low,6,namecheap,,,16/09/2026 22:47
 00c653f2-79d3-4c16-b052-5683f9024a27,grandchildren.cricket,available,23.59,23.59,medium,low,13,namesilo,,,
 2c244395-552a-4551-a643-01def3e42e18,squirrel.cricket,premium,437.5,,high,low,8,name.com,,,
-2a0db532-48cb-4a3c-87a9-cc74ffc8a546,deftly.cricket,available,23.59,23.59,high,low,6,namesilo,,,14/09/2026 11:20
+2a0db532-48cb-4a3c-87a9-cc74ffc8a546,deftly.cricket,available,23.59,23.59,medium,low,6,namesilo,,,14/09/2026 11:20
 21b65711-cbdc-47a8-b288-d614d403a4dd,malone.cricket,premium,448,53.92,high,low,6,namesilo,,,25/09/2026 05:13
 25f6b0e2-3595-487b-a318-86eda5814f31,shipping.cricket,available,23.59,23.59,high,low,8,namesilo,,,24/09/2026 02:37
 fc049047-2951-4d0b-9e58-ea5d2f545ae6,oriental.cricket,premium,455,65,high,low,8,namecheap,,,04/09/2026 17:51
 98be5626-b080-4827-adf8-205c973fb380,astilbe.cricket,available,25.98,31.98,medium,low,7,namecheap,,,20/09/2026 17:26
 50c3aa84-9a55-4313-b99b-f0213627fae0,ropey.cricket,available,23.59,23.59,high,medium,5,namesilo,,,09/09/2026 18:38
-2c2bb1fd-e8c1-41f3-b84f-0b4e71745edc,nationally.cricket,available,23.59,23.59,high,low,10,namesilo,,,03/09/2026 13:44
+2c2bb1fd-e8c1-41f3-b84f-0b4e71745edc,nationally.cricket,available,23.59,23.59,medium,low,10,namesilo,,,03/09/2026 13:44
 1e60a827-afe8-42a7-a7e7-308330b10ef3,antlia.cricket,available,23.59,23.59,medium,low,6,namesilo,,,19/09/2026 15:21
 70bb54ee-9de3-421f-9362-160006e8605d,lists.cricket,available,23.59,23.59,medium,low,5,namesilo,,,17/09/2026 08:32
 8a8f3af5-3147-4141-8986-1e0bea0925e2,mahan.cricket,available,25.98,31.98,high,low,5,namecheap,,,18/09/2026 06:45
@@ -251,18 +257,19 @@ bab066a5-137b-464b-a37e-09f90a455fc8,wraps.cricket,premium,455,65,medium,low,5,n
 64e85944-a91c-4be1-a3d0-31e14b57f828,furry.cricket,available,25.98,31.98,high,medium,5,namecheap,,,18/08/2026 18:53
 1b8b6c1b-e764-4d4b-b03e-f8ce5e30d726,unhatched.cricket,available,23.59,23.59,medium,low,9,namesilo,,,12/09/2026 12:05
 f63655d9-d731-4d31-abd9-5d08fce0622e,ransacked.cricket,available,23.59,23.59,medium,low,9,namesilo,,,24/08/2026 09:49
-bc4fd7c1-b181-42b5-b5fc-03ab0e871df4,felon.cricket,premium,437.5,62.5,high,low,5,name.com,,,13/08/2026 06:25
+bc4fd7c1-b181-42b5-b5fc-03ab0e871df4,felon.cricket,premium,437.5,62.5,medium,low,5,name.com,,,13/08/2026 06:25
 cb72fa0b-fa50-48ec-91df-c4fda05fe914,buff.cricket,premium,437.5,62.5,high,low,4,name.com,,,11/08/2026 07:48
 3e564f3b-e9cc-48fb-b594-b26d0dc843a0,bequest.cricket,premium,448,53.92,high,low,7,namesilo,,,23/09/2026 09:04
 8f936f4e-98ca-4e9c-b8fc-3b554878f555,candy.cricket,premium,448,53.92,high,medium,5,namesilo,,,25/09/2026 22:17
 93154e9b-3f2a-431e-8123-f441be83ebe8,martian.cricket,premium,437.5,62.5,high,low,7,name.com,,,24/08/2026 16:37
 1625cc73-0db5-44be-a25b-04e895e5f3d2,airdock.cricket,premium,448,53.92,medium,low,7,namesilo,,,17/09/2026 23:04
+9a701a4d-cea0-4e2f-a54b-aa58f3486f3e,slice.cricket,premium,517.7,67.48,high,low,5,spaceship,,,27/09/2026 13:29
 c6954e0f-b8e9-4932-83cb-1680dead3775,ticking.cricket,available,31.98,,high,low,7,namecheap,,,
 1b94c95f-afc3-4809-8f32-4524276d8be2,spicate.cricket,available,23.59,23.59,high,medium,7,namesilo,,,10/09/2026 15:34
 609a420a-c512-4620-9bf3-1b91b385a964,baldachin.cricket,available,25.98,31.98,medium,low,9,namecheap,,,21/09/2026 21:30
 20f46c17-6984-4aac-825e-6f53d767b568,willingness.cricket,available,23.59,23.59,high,low,11,namesilo,,,
 b719dd88-ed45-4b92-b72a-de91fd3b053e,disruption.cricket,premium,448,53.92,high,low,10,namesilo,,,24/09/2026 16:35
-c290e996-5e1f-4f1d-9e08-0809896962de,zygomatic.cricket,available,23.59,23.59,high,low,9,namesilo,,,13/09/2026 15:39
+c290e996-5e1f-4f1d-9e08-0809896962de,zygomatic.cricket,available,23.59,23.59,medium,low,9,namesilo,,,13/09/2026 15:39
 9b7a4fc9-bb4b-4c3c-983e-544a64b9e950,booming.cricket,premium,437.5,62.5,high,low,7,name.com,,,10/08/2026 19:14
 def2f227-b202-4fbd-8a52-dd18c1cca5b2,cruel.cricket,premium,448,53.92,high,low,5,namesilo,,,22/09/2026 17:21
 cb31b0f2-1d9a-428d-bfa9-8466ca078661,disappointed.cricket,available,23.59,23.59,medium,low,12,namesilo,,,
@@ -271,6 +278,7 @@ e14e8615-fbe5-47a8-b46a-9703d62903d2,betterment.cricket,premium,455,65,high,low,
 a772cc5c-30c1-4812-a32c-3dc1cfb9fe65,mann.cricket,premium,448,53.92,high,low,4,namesilo,,,25/09/2026 07:33
 e9e2d9c3-5ff6-4bce-96a9-470705acd14c,bagdad.cricket,premium,437.5,,medium,low,6,name.com,,,
 18499984-6e74-4803-aec1-3c31c174d8c7,vapourish.cricket,available,23.59,23.59,medium,low,9,namesilo,,,13/09/2026 01:13
+5dab85d5-6de0-4e20-a20e-c29fd5eea9e2,willamette.cricket,premium,448,53.92,medium,low,10,namesilo,,,27/09/2026 16:20
 ae04b2c4-5e6b-4d91-ac03-55ac68e5216e,unreal.cricket,premium,448,53.92,high,low,6,namesilo,,,22/09/2026 09:00
 1f8a0bc9-5fcd-4b71-84de-54743ebe653d,desired.cricket,available,23.59,23.59,high,low,7,namesilo,,,24/09/2026 00:57
 aa416f78-5f2b-4836-8fc4-d5b40029fab0,superuser.cricket,premium,437.5,,high,low,9,name.com,,,
@@ -308,7 +316,7 @@ c9d085f2-92ba-433c-b7cc-d309aef2bf66,poetic.cricket,premium,448,53.92,high,low,6
 f942053e-fc6d-4126-9192-eec149370b71,terminated.cricket,available,25.98,31.98,high,low,10,namecheap,,,19/09/2026 16:25
 e01f2164-850f-49f5-a074-737930581d6e,automatic.cricket,premium,448,53.92,high,low,9,namesilo,,,22/09/2026 14:02
 dc0a1e0e-f035-45d1-86c1-558aab3d7f00,cliquish.cricket,available,23.59,23.59,medium,low,8,namesilo,,,12/08/2026 11:17
-dd0a68aa-b085-4db1-bdf4-0b9ad9b39e3a,berries.cricket,premium,448,53.92,high,low,7,namesilo,,,19/09/2026 15:37
+dd0a68aa-b085-4db1-bdf4-0b9ad9b39e3a,berries.cricket,premium,448,53.92,medium,low,7,namesilo,,,19/09/2026 15:37
 ab189096-fe91-4454-8407-d03e45840773,badger.cricket,premium,448,53.92,high,low,6,namesilo,,,21/09/2026 17:01
 4d524ac0-d31a-45c8-a694-a6ba7933a5ac,formidable.cricket,premium,437.5,62.5,high,low,10,name.com,,,18/08/2026 12:12
 bf6a46a9-cae2-4784-aac7-f482acfdf79a,tamil.cricket,available,23.59,23.59,high,low,5,namesilo,,,11/09/2026 07:48
@@ -318,7 +326,7 @@ bf6a46a9-cae2-4784-aac7-f482acfdf79a,tamil.cricket,available,23.59,23.59,high,lo
 09211276-61f5-46d9-b027-72ed5208e599,andalucia.cricket,available,23.59,23.59,high,low,9,namesilo,,,19/09/2026 03:58
 b0375eb1-4190-4942-8b8b-9ae4b09a0e81,hans.cricket,premium,437.5,,high,low,4,name.com,,,
 fcc293ea-cfd1-40ce-a9fd-4163158122a2,loves.cricket,available,25.98,31.98,high,low,5,namecheap,,,25/09/2026 18:55
-6dd4720b-2cec-4dc5-bc95-34e38fe2e925,malamute.cricket,premium,455,65,high,low,8,namecheap,,,18/09/2026 02:06
+6dd4720b-2cec-4dc5-bc95-34e38fe2e925,malamute.cricket,premium,455,65,medium,low,8,namecheap,,,18/09/2026 02:06
 54893670-1a70-4a19-bb0f-dae82505d66f,dromedary.cricket,premium,448,53.92,medium,low,9,namesilo,,,19/09/2026 23:32
 a3eddb66-5e6b-442a-9a94-2add8cc1e739,cot.cricket,premium,437.5,,high,low,3,name.com,,,
 c6ccb7f8-4eb8-443b-b2b4-5427a826a0b7,atrium.cricket,premium,455,65,high,low,6,namecheap,,,21/09/2026 00:47
@@ -327,7 +335,7 @@ ea875ebf-d2f6-4a8e-ac7d-b89d5b875c30,ruffled.cricket,premium,437.5,62.5,high,low
 6b3bb2b4-3485-4ba5-ab64-fa5e744d156c,brackish.cricket,premium,437.5,62.5,medium,low,8,name.com,,,11/08/2026 00:43
 80f7fa48-368d-44bc-93cf-bb61e71ab8b2,generations.cricket,premium,455,65,medium,low,11,namecheap,,,17/09/2026 19:20
 101ddded-cf96-4887-bd7a-98af17d3c0e5,pinging.cricket,available,23.59,23.59,medium,low,7,namesilo,,,
-6aa16e13-01fd-4c65-8949-4842b6c763be,sphingine.cricket,available,23.59,23.59,high,medium,9,namesilo,,,10/09/2026 15:32
+6aa16e13-01fd-4c65-8949-4842b6c763be,sphingine.cricket,available,23.59,23.59,medium,medium,9,namesilo,,,10/09/2026 15:32
 ff5159b2-924f-4f41-800f-7edfc25419ee,standard.cricket,premium,448,53.92,high,high,8,namesilo,,,27/09/2026 10:37
 7d4f341b-2899-4167-8074-49730e85aed9,tattletale.cricket,premium,448,53.92,medium,low,10,namesilo,,,11/09/2026 10:28
 b7aecd6d-c1da-456b-bed2-90878774f221,alocasia.cricket,available,23.59,23.59,medium,low,8,namesilo,,,18/09/2026 12:56
@@ -363,12 +371,12 @@ f912196e-1316-43ba-a902-03fc6155f86c,dotted.cricket,available,34.99,37.99,medium
 69ef2e19-4391-450e-883d-06824550a5cc,trine.cricket,premium,437.5,62.5,medium,low,5,name.com,,,
 c252e420-fe6e-4d04-b38c-05f868a0549d,acetone.cricket,premium,448,53.92,high,low,7,namesilo,,,17/09/2026 00:07
 50866374-62fe-4599-b1ab-70300f54e53a,add.cricket,premium,625,,high,low,3,name.com,,,
-544a4e51-0c62-47cb-be92-1cad90deecce,slim.cricket,premium,437.5,,high,low,4,name.com,,,
+544a4e51-0c62-47cb-be92-1cad90deecce,slim.cricket,premium,448,53.92,high,low,4,namesilo,,,27/09/2026 22:35
 3b9f3983-b0c3-4ec3-a713-bc5b6699f1cc,caoutchouc.cricket,available,25.98,31.98,high,medium,10,namecheap,,,09/09/2026 19:12
 59201ab4-4c1f-4433-80ed-1a1efc8872d2,paramedic.cricket,available,23.59,23.59,high,low,9,namesilo,,,08/09/2026 00:59
 b615fe2b-f1a1-47e5-9bb8-a6cf5482fa94,referent.cricket,available,23.59,23.59,high,medium,8,namesilo,,,09/09/2026 12:35
-88168de8-ec6a-48d7-aa1d-8ae825cfdcd8,blurred.cricket,premium,455,65,high,low,7,namecheap,,,22/09/2026 23:21
-e2d2289e-f895-49a3-b5b3-691c3912d5ed,publicly.cricket,available,31.98,,high,low,8,namecheap,,,
+88168de8-ec6a-48d7-aa1d-8ae825cfdcd8,blurred.cricket,premium,455,65,medium,low,7,namecheap,,,22/09/2026 23:21
+e2d2289e-f895-49a3-b5b3-691c3912d5ed,publicly.cricket,available,31.98,,medium,low,8,namecheap,,,
 666923fa-8a76-40c7-81f3-b95b82a8473a,spf.cricket,premium,448,53.92,high,low,3,namesilo,,,25/09/2026 17:19
 788250f8-7bd3-4a17-82c1-bd0d6b853711,traps.cricket,premium,448,53.92,high,low,5,namesilo,,,20/09/2026 04:06
 e2c092a1-e8c1-4588-af04-0309896f534f,styleless.cricket,available,23.59,23.59,low,low,9,namesilo,,,10/09/2026 23:15
@@ -376,12 +384,13 @@ e2c092a1-e8c1-4588-af04-0309896f534f,styleless.cricket,available,23.59,23.59,low
 8aaa113e-ff66-4847-be0d-0956958b6bd2,conquest.cricket,premium,437.5,,high,low,8,name.com,,,
 d76c5f40-5171-43cc-a466-f42da88eb22c,supersonic.cricket,premium,448,53.92,high,low,10,namesilo,,,11/09/2026 02:25
 477f1d26-fd9e-4b73-be05-e8b54554db21,faddy.cricket,available,23.59,23.59,medium,low,5,namesilo,,,17/08/2026 20:35
-61322e91-8e00-45da-ade9-f34bd09458ef,adrift.cricket,available,23.59,23.59,high,low,6,namesilo,,,
+61322e91-8e00-45da-ade9-f34bd09458ef,adrift.cricket,available,23.59,23.59,medium,low,6,namesilo,,,
 460a243e-fcc3-4dfb-bb74-0ff1f5043b65,arthur.cricket,premium,448,53.92,high,low,6,namesilo,,,20/09/2026 10:45
 17b0b06e-9363-4d83-b3bd-2f975da371cb,philip.cricket,premium,437.5,,high,low,6,name.com,,,
 7a3a588d-b55b-4753-a143-ee2f1d0f99b1,cleanup.cricket,premium,437.5,62.5,high,low,7,name.com,,,12/08/2026 10:26
+1524b629-31b7-4cab-a5d2-8da88391989a,traitor.cricket,premium,382.61,55.11,high,low,7,porkbun,,,27/09/2026 13:08
 ef0699d9-1a41-42a4-b2e8-e136a2cdd8d3,malay.cricket,available,23.59,23.59,high,low,5,namesilo,,,24/08/2026 13:42
-258cc4cf-714a-48ac-bf01-5c49339bbc5d,fingered.cricket,available,23.59,23.59,high,low,8,namesilo,,,18/08/2026 04:53
+258cc4cf-714a-48ac-bf01-5c49339bbc5d,fingered.cricket,available,23.59,23.59,medium,low,8,namesilo,,,18/08/2026 04:53
 dc95c200-f621-4177-b88b-c9c1995d1856,weed.cricket,premium,437.5,,high,low,4,name.com,,,
 82229138-34f7-464c-a3ac-316b50ec90f7,crosby.cricket,premium,448,53.92,high,low,6,namesilo,,,23/09/2026 17:15
 2a58c2e4-34c9-493b-80f3-432df2f155f8,cans.cricket,premium,455,65,medium,low,4,namecheap,,,18/09/2026 22:47
@@ -403,17 +412,17 @@ c9528522-2764-42d4-83a1-4351b2be5872,refreshment.cricket,available,25.98,31.98,h
 482d858a-56ef-42c3-87b7-a1b63870a0a6,soggy.cricket,available,23.59,23.59,high,low,5,namesilo,,,10/08/2026 17:14
 770cf76f-5f97-4159-a387-88ffb18e8182,venomous.cricket,available,23.59,23.59,medium,low,8,namesilo,,,13/09/2026 02:08
 d3dde748-9677-4b78-b4cb-1c1af3a5c8ab,protect.cricket,premium,437.5,,high,low,7,name.com,,,
-4e2d3a96-9bd9-434f-b856-5f30ae4b78e3,thawing.cricket,available,23.59,23.59,high,low,7,namesilo,,,24/08/2026 19:47
+4e2d3a96-9bd9-434f-b856-5f30ae4b78e3,thawing.cricket,available,23.59,23.59,medium,low,7,namesilo,,,24/08/2026 19:47
 45cc3572-d5ac-484b-a1bb-7c82206a3fed,ever.cricket,premium,437.5,,high,medium,4,name.com,,,
 3e91fbf9-bd51-4901-9ca9-f8128c645b0d,brimful.cricket,available,23.59,23.59,high,low,7,namesilo,,,11/08/2026 04:08
 e86cd396-4613-4a1e-a574-1f5d2678e57e,excision.cricket,available,23.59,23.59,medium,low,8,namesilo,,,16/09/2026 16:06
-32f9949c-7327-452a-a2ac-7722e68bcb8e,limp.cricket,available,23.59,23.59,high,low,4,namesilo,,,23/08/2026 12:39
+32f9949c-7327-452a-a2ac-7722e68bcb8e,limp.cricket,available,23.59,23.59,medium,low,4,namesilo,,,23/08/2026 12:39
 5b29157d-83fe-406a-971c-6843467488c9,ropeway.cricket,premium,455,65,medium,low,7,namecheap,,,17/09/2026 12:50
 9f176ca0-469a-40d4-8598-0a7e5f2e3f95,clemency.cricket,available,25.98,31.98,high,low,8,namecheap,,,24/09/2026 15:31
 2b0210c6-15fb-4a0e-a8de-fa0e714e1443,hoagie.cricket,available,25.98,31.98,high,low,6,namecheap,,,24/09/2026 20:04
 f50d8ae9-fa31-4ca9-be1a-8ca3053ac5df,philly.cricket,premium,437.5,,high,low,6,name.com,,,
 0347927f-8928-4d4b-aa61-c008b54a4de4,communicate.cricket,premium,437.5,,high,low,11,name.com,,,
-4b091f55-5f40-4652-98e7-fd3c77771c54,rigour.cricket,premium,448,53.92,high,low,6,namesilo,,,20/09/2026 14:57
+4b091f55-5f40-4652-98e7-fd3c77771c54,rigour.cricket,premium,448,53.92,medium,low,6,namesilo,,,20/09/2026 14:57
 71d0591f-538c-4759-8566-730362ba4c7b,herbaceous.cricket,available,23.59,23.59,medium,low,10,namesilo,,,21/08/2026 06:56
 e4998071-3f83-40b4-abee-92b242cc7e76,overhasty.cricket,available,23.59,23.59,medium,low,9,namesilo,,,04/09/2026 20:44
 744686a2-4563-46ad-bbc7-9f6406f6fa71,holloway.cricket,premium,448,53.92,high,low,8,namesilo,,,26/09/2026 03:22
@@ -421,7 +430,7 @@ e4998071-3f83-40b4-abee-92b242cc7e76,overhasty.cricket,available,23.59,23.59,med
 2477c79f-a28d-45a4-9e2d-830f50e3388d,melvin.cricket,premium,448,53.92,high,low,6,namesilo,,,26/09/2026 03:21
 ac2cce2f-9d67-477e-94e8-0872842d03f1,assuredly.cricket,available,23.59,23.59,high,low,9,namesilo,,,13/09/2026 22:09
 696d942c-58f5-4a7c-a814-260a3ca10293,preserve.cricket,premium,448,53.92,high,low,8,namesilo,,,24/09/2026 17:28
-78349f46-7a8d-421d-9341-f1f0a7313789,peirce.cricket,available,23.59,23.59,high,low,6,namesilo,,,23/09/2026 08:23
+78349f46-7a8d-421d-9341-f1f0a7313789,peirce.cricket,available,23.59,23.59,medium,low,6,namesilo,,,23/09/2026 08:23
 e06d544d-9874-438c-a5b8-61086d591a05,unilateral.cricket,available,23.59,23.59,medium,low,10,namesilo,,,12/09/2026 12:59
 c832157e-327a-4d29-9ec7-1dd4bff30f6a,happy.cricket,premium,3450,116,high,medium,5,namesilo,,,24/09/2026 23:31
 6626f481-2e81-4341-b6ac-c919d81118c1,death.cricket,premium,448,53.92,high,low,5,namesilo,,,24/09/2026 12:39
@@ -456,7 +465,7 @@ db8a0803-471f-4257-a832-3fe2ed9a966b,spiral.cricket,premium,448,53.92,high,low,6
 19cee84b-7dc8-43be-a47b-1d41eb052c0d,blether.cricket,available,23.59,23.59,medium,low,7,namesilo,,,24/09/2026 04:49
 7b8298bd-66c5-4bcd-abdc-9b7524561f78,untucked.cricket,available,23.59,23.59,low,low,8,namesilo,,,12/09/2026 21:50
 d3dec50b-526d-4bfe-85b6-2e565100cc60,funded.cricket,premium,437.5,62.5,high,low,6,name.com,,,18/08/2026 18:23
-e4882d49-e15b-4e80-b079-b9589882880b,spoiled.cricket,premium,448,53.92,high,low,7,namesilo,,,10/09/2026 16:20
+e4882d49-e15b-4e80-b079-b9589882880b,spoiled.cricket,premium,448,53.92,medium,low,7,namesilo,,,10/09/2026 16:20
 be9d9fa5-dd59-4d31-a5ff-82de95888746,rattling.cricket,available,23.59,23.59,high,low,8,namesilo,,,11/08/2026 04:30
 2f3529ec-4dd3-4e0f-a8be-2fb9a9b41eba,bakshish.cricket,available,34.99,37.99,medium,low,8,name.com,,,21/09/2026 15:53
 d309beb7-6251-4841-9909-df1116aeb34c,competency.cricket,available,23.59,23.59,high,low,10,namesilo,,,24/09/2026 16:48
@@ -464,7 +473,7 @@ ba9f1ee6-23bf-4e84-b597-38ec0f4b2322,photocopying.cricket,available,23.59,23.59,
 7131844d-ab67-4bc8-81b4-182fdb426c73,agential.cricket,available,23.59,23.59,medium,low,8,namesilo,,,
 970b14c8-8940-4b99-8529-f400fa74fc1f,logan.cricket,premium,448,53.92,high,low,5,namesilo,,,25/09/2026 09:03
 00909645-4582-487d-858a-d67829abea4e,lafayette.cricket,premium,437.5,,high,low,9,name.com,,,
-16d9b5be-3fb2-4455-bd8a-f0b281d77e55,amberjack.cricket,premium,448,53.92,high,low,9,namesilo,,,18/09/2026 16:35
+16d9b5be-3fb2-4455-bd8a-f0b281d77e55,amberjack.cricket,premium,448,53.92,medium,low,9,namesilo,,,18/09/2026 16:35
 7cf436c1-e51f-41bf-bde9-94372857932b,boy.cricket,available,,,high,low,3,,,,
 fb948bda-674b-4e1d-acfd-b9fc00754cd7,oppositions.cricket,available,34.99,37.99,low,low,11,name.com,,,20/09/2026 21:56
 72e85535-aff5-4b2d-aaba-a9f1a41d5fe0,soused.cricket,available,23.59,23.59,low,low,6,namesilo,,,09/08/2026 16:07
@@ -504,11 +513,12 @@ cf87860e-c3c9-49ec-8cd2-4dcbbabcb8b9,inutile.cricket,available,23.59,23.59,mediu
 a887c12f-61a2-4270-b5e1-3a93aebac3ce,inaugural.cricket,available,23.59,23.59,high,low,9,namesilo,,,22/08/2026 00:37
 95e6f301-a813-4adc-aef0-697d7a719af0,pickaback.cricket,available,23.59,23.59,high,low,9,namesilo,,,15/09/2026 19:48
 00eaf661-1bef-4f5f-a84a-95bd2be3cb55,perishable.cricket,available,23.59,23.59,high,low,10,namesilo,,,08/09/2026 17:18
-f75a4ec6-1165-43d0-a695-90178fa015fa,georges.cricket,premium,448,53.92,high,low,7,namesilo,,,25/09/2026 15:05
+f75a4ec6-1165-43d0-a695-90178fa015fa,georges.cricket,premium,448,53.92,medium,low,7,namesilo,,,25/09/2026 15:05
+ab457278-5909-4242-966e-44f901286070,privilege.cricket,premium,,,high,low,9,,,,28/09/2026 01:52
 52ec2552-0dca-4512-8ad8-6f13af9ab41a,penitent.cricket,available,23.59,23.59,medium,low,8,namesilo,,,08/09/2026 14:30
 1c574ec8-914d-4838-bf22-29d322779a22,glitter.cricket,premium,437.5,,high,low,7,name.com,,,
 39068bc8-5255-45b3-8ce3-1f8275e68aad,pigeons.cricket,premium,448,53.92,medium,low,7,namesilo,,,20/09/2026 07:08
-829f6d64-744f-475a-a032-0f6cda5fb737,upon.cricket,premium,437.5,,high,low,4,name.com,,,
+829f6d64-744f-475a-a032-0f6cda5fb737,upon.cricket,premium,362.45,51.95,high,low,4,spaceship,,,27/09/2026 11:32
 b05df65c-ef4d-4b2b-a4ea-977967c389b1,bellwether.cricket,premium,448,53.92,high,low,10,namesilo,,,23/09/2026 06:30
 7bb8e4c0-d625-4e82-be28-fa9ccd7c18aa,tel.cricket,premium,437.5,,high,low,3,name.com,,,
 70b0c74f-b580-44b0-9b20-f85c81246c16,employees.cricket,available,23.59,23.59,medium,low,9,namesilo,,,27/09/2026 02:50
@@ -516,6 +526,8 @@ b05df65c-ef4d-4b2b-a4ea-977967c389b1,bellwether.cricket,premium,448,53.92,high,l
 a5855b0c-2999-4243-a35c-886599514b01,structurally.cricket,available,25.98,31.98,medium,low,12,namecheap,,,17/09/2026 20:10
 2e4da507-dd1d-4fea-a618-a2dcfea32305,robed.cricket,available,23.59,23.59,medium,low,5,namesilo,,,06/08/2026 05:03
 93aa638f-416f-4f91-a910-e6a598606fe7,nights.cricket,premium,448,53.92,high,low,6,namesilo,,,17/09/2026 22:10
+879444d5-2618-4e79-a69c-2fff9ad23dce,shu.cricket,premium,,,high,low,3,,,,27/09/2026 21:11
+2fb83694-4bfc-44cc-b165-6dea191a8e18,coincidence.cricket,premium,448,53.92,high,low,11,namesilo,,,27/09/2026 21:29
 c58b651d-6a19-4b68-84e0-01fcd1b6340b,reviewers.cricket,available,23.59,23.59,medium,low,9,namesilo,,,21/09/2026 09:06
 5a486943-f4ac-469e-a9ec-4bef9298284e,temple.cricket,available,,,high,high,6,,,,
 70a6dffc-f355-4231-9beb-1d77cfb30c8c,gentile.cricket,premium,437.5,62.5,high,low,7,name.com,,,18/08/2026 21:53
@@ -524,10 +536,11 @@ fbe4b4cb-6ad4-43e5-b025-8789ea3132d3,cinnabar.cricket,premium,437.5,62.5,high,lo
 603eef76-cbf5-4142-a8f6-e53efa71f094,hither.cricket,available,23.59,23.59,medium,low,6,namesilo,,,15/09/2026 00:48
 ed853d85-cade-48ef-9b11-6e662f0a5739,misery.cricket,premium,448,53.92,medium,low,6,namesilo,,,27/09/2026 04:46
 afaa727d-b2cb-4e4a-8835-e13077c6527d,wetter.cricket,available,23.59,23.59,high,low,6,namesilo,,,22/09/2026 23:07
-bf6ee5fe-1b93-49ff-98cc-37989eca23f0,sensitive.cricket,premium,437.5,,high,low,9,name.com,,,
+bf6ee5fe-1b93-49ff-98cc-37989eca23f0,sensitive.cricket,premium,385,55,high,low,9,dynadot,,,27/09/2026 20:05
 10858822-2635-49b0-8a4c-63bf04d1ca2e,barometric.cricket,premium,437.5,62.5,medium,low,10,name.com,,,08/08/2026 20:06
 8f10f87d-6112-4d9b-8d07-79ec5ae61c8f,oxidative.cricket,available,23.59,23.59,medium,low,9,namesilo,,,04/09/2026 22:23
 9862af33-9a32-494b-bbc1-6339a4734077,uncrowded.cricket,available,23.59,23.59,medium,low,9,namesilo,,,12/09/2026 06:35
+fdecdfb1-bdc3-41ab-9ad4-3de4ed51c3cf,drowned.cricket,available,23.59,23.59,medium,low,7,namesilo,,,27/09/2026 22:47
 11c5572b-6713-47da-a324-34ef6d13da53,sean.cricket,available,23.59,23.59,high,low,4,namesilo,,,25/09/2026 11:36
 bd68ffed-dcb4-45a7-9b02-6537079dddc2,hodges.cricket,premium,455,65,medium,low,6,namecheap,,,25/09/2026 19:37
 d59e05fc-9134-4f39-a01c-d5bff76d752e,traceable.cricket,premium,448,53.92,high,low,9,namesilo,,,11/09/2026 18:33
@@ -538,8 +551,8 @@ ee4ea2b6-9bc1-4ef9-8f20-ee64967af317,dogmatic.cricket,premium,437.5,62.5,medium,
 79a6f2d9-d03d-4132-b03b-2a21a1cbd8b0,primeval.cricket,premium,448,53.92,high,low,8,namesilo,,,09/09/2026 02:02
 570cb637-ce40-4e77-a5cf-22e832c09e27,theater.cricket,premium,448,53.92,high,low,7,namesilo,,,23/09/2026 02:50
 22ed8716-e197-45ae-8773-8bca018f4e9a,alkene.cricket,available,23.59,23.59,medium,low,6,namesilo,,,18/09/2026 08:28
-30277b74-9bfa-4dae-abdb-4e8597db1177,saving.cricket,available,31.98,,high,low,6,namecheap,,,
-b8634245-a9df-4241-95ce-243f45544504,forbidding.cricket,available,23.59,23.59,high,low,10,namesilo,,,18/08/2026 11:08
+30277b74-9bfa-4dae-abdb-4e8597db1177,saving.cricket,available,20.18,20.18,high,low,6,cloudflare,,,27/09/2026 18:08
+b8634245-a9df-4241-95ce-243f45544504,forbidding.cricket,available,23.59,23.59,medium,low,10,namesilo,,,18/08/2026 11:08
 57bb6f4a-8dec-4944-8899-285eababf292,agenesis.cricket,available,23.59,23.59,medium,low,8,namesilo,,,17/09/2026 17:08
 6adfa9ee-9fb2-4628-82fc-426cf276d8c9,apodictic.cricket,available,23.59,23.59,medium,low,9,namesilo,,,06/08/2026 01:27
 5fc1be94-46cd-431d-be09-e9f9f60a4386,generators.cricket,available,23.59,23.59,medium,low,10,namesilo,,,
@@ -562,11 +575,12 @@ aaad7d8b-8203-47ef-ab59-5070b96b9f46,inflatable.cricket,premium,1107,116,high,lo
 39a76011-aba9-430c-a886-70e80839c5c9,balinese.cricket,available,23.59,23.59,high,low,8,namesilo,,,21/09/2026 22:03
 e1124d4e-def1-4698-bc4d-9c2d475b16e3,agamid.cricket,available,23.59,23.59,medium,low,6,namesilo,,,17/09/2026 16:08
 90849143-1d82-4865-99b4-40303d5715cf,cars.cricket,available,23.59,23.59,high,medium,4,namesilo,,,17/09/2026 14:10
+62f2fe54-a096-4d9c-897e-651fad4f2552,cigar.cricket,available,21.6,21.6,high,low,5,dynadot,,,28/09/2026 01:40
 d7423133-75b6-4d65-80e8-64510c2ac931,novice.cricket,premium,455,65,high,low,6,namecheap,,,23/09/2026 02:23
 04724b21-3e9e-4f49-a4f7-c387464ad816,trace.cricket,premium,437.5,,high,low,5,name.com,,,
-55d71ae6-4415-49f9-8583-61a5cbeedb2e,strategic.cricket,premium,1107,116,high,low,9,namesilo,,,
+55d71ae6-4415-49f9-8583-61a5cbeedb2e,strategic.cricket,premium,1035.2,103.7,high,low,9,spaceship,,,28/09/2026 01:36
 06563860-e211-4913-98e8-8aa42f69b067,wain.cricket,premium,448,53.92,medium,low,4,namesilo,,,23/09/2026 14:30
-84e1a8da-4ed1-43ba-b861-5232aa848bb2,bohme.cricket,available,23.59,23.59,high,low,5,namesilo,,,23/09/2026 03:34
+84e1a8da-4ed1-43ba-b861-5232aa848bb2,bohme.cricket,available,23.59,23.59,medium,low,5,namesilo,,,23/09/2026 03:34
 26f60eae-7df9-4558-90e7-17eca6daa541,hobby.cricket,premium,448,53.92,high,low,5,namesilo,,,21/09/2026 09:40
 79e9d6f6-8a10-4ce0-8dee-ccdbac60a771,bronchial.cricket,premium,437.5,62.5,medium,low,9,name.com,,,11/08/2026 05:35
 a9d7e6f1-77c6-4024-9d91-e939ec25d4b5,went.cricket,available,23.59,23.59,high,low,4,namesilo,,,
@@ -575,13 +589,13 @@ a387ecc5-bcfb-420c-8583-5f0b7c66682d,scar.cricket,premium,448,53.92,high,low,4,n
 06bbe558-e112-47af-af9a-063c7046cdcc,fall.cricket,available,23.59,23.59,high,low,4,namesilo,,,
 582de23b-9e80-4328-9275-8c6b6a69ab8c,ding.cricket,premium,437.5,,high,low,4,name.com,,,
 e95faab2-d6ce-45a9-b8be-1edeb16f69ae,unpowered.cricket,available,23.59,23.59,medium,low,9,namesilo,,,12/09/2026 17:18
-92bcf2a2-558e-40a3-9be3-2ebaad8a01cb,spicebush.cricket,available,23.59,23.59,high,low,9,namesilo,,,18/09/2026 20:40
+92bcf2a2-558e-40a3-9be3-2ebaad8a01cb,spicebush.cricket,available,23.59,23.59,medium,low,9,namesilo,,,18/09/2026 20:40
 bf47d97c-569d-49d0-b327-04dd95b61d05,plate.cricket,premium,437.5,,high,low,5,name.com,,,
 63417357-e4c9-4195-981d-1df16e286d17,will.cricket,premium,437.5,,high,medium,4,name.com,,,
 3baa65c1-a482-4c30-af90-6324713c76e5,censure.cricket,available,25.98,31.98,medium,low,7,namecheap,,,19/09/2026 08:29
 da384c0f-b07c-4257-b562-4e0116c8fe28,scapegrace.cricket,available,23.59,23.59,medium,low,10,namesilo,,,24/09/2026 01:41
 fce4280d-f246-4751-97e1-9f6338787d04,lxvii.cricket,available,23.59,23.59,medium,low,5,namesilo,,,
-26667ea7-8422-40b8-92ac-d61da50bf441,germicide.cricket,available,23.59,23.59,high,low,9,namesilo,,,
+26667ea7-8422-40b8-92ac-d61da50bf441,germicide.cricket,available,23.59,23.59,medium,low,9,namesilo,,,
 cd5c4f57-e5d5-45cc-b1c4-d1876310a089,achaean.cricket,available,23.59,23.59,medium,low,7,namesilo,,,
 da7a773e-f4ec-4ca2-a446-da0512183683,jacob.cricket,premium,448,53.92,high,low,5,namesilo,,,25/09/2026 22:52
 676cc384-02ae-4835-ac48-a3c7295754e9,jailhouse.cricket,premium,437.5,62.5,medium,low,9,name.com,,,08/09/2026 22:44
@@ -636,7 +650,7 @@ e651a993-07e5-47a1-9f09-eae77367ab74,potbound.cricket,available,23.59,23.59,medi
 826d824b-3bc5-4e7f-b7e9-33830e8626d4,patton.cricket,premium,448,53.92,high,low,6,namesilo,,,25/09/2026 16:06
 9561d9e3-3b6b-4f2e-82b6-51756abf039a,director.cricket,premium,1107,116,high,low,8,namesilo,,,
 9c630502-4fe3-47a3-b36d-942c7e6aaa7e,affirmative.cricket,premium,437.5,,high,low,11,name.com,,,
-5604e0e8-b999-41b7-94a8-37d7d7217862,alger.cricket,premium,448,53.92,high,low,5,namesilo,,,18/09/2026 06:56
+5604e0e8-b999-41b7-94a8-37d7d7217862,alger.cricket,premium,448,53.92,medium,low,5,namesilo,,,18/09/2026 06:56
 7ffa2cdb-1e3b-420b-b925-f857bbb6a85b,occupant.cricket,available,23.59,23.59,high,low,8,namesilo,,,09/09/2026 14:52
 e69b5b40-4784-4dcf-a8b7-ccb3c1786fdf,frederic.cricket,available,23.59,23.59,high,low,8,namesilo,,,25/09/2026 15:15
 828f4ce8-e51d-4c14-b974-ed7a85227124,reborn.cricket,premium,437.5,62.5,high,low,6,name.com,,,10/08/2026 20:11
@@ -652,7 +666,7 @@ ef1bb590-ab34-49de-a521-0ed542a51697,mystify.cricket,premium,455,65,high,low,7,n
 cf367e7b-476d-409d-a86c-57db71383308,door.cricket,premium,448,53.92,high,low,4,namesilo,,,19/09/2026 10:21
 c72185e7-7566-4c0d-a811-7198595ab303,annona.cricket,premium,448,53.92,medium,low,6,namesilo,,,19/09/2026 10:30
 0a47f652-b2ed-43e1-b4dd-41d959f59154,mitral.cricket,available,23.59,23.59,medium,low,6,namesilo,,,25/08/2026 02:10
-f9f74c5e-1ba7-4c7b-8acf-b41b790b2626,zama.cricket,premium,455,65,high,low,4,namecheap,,,22/09/2026 16:21
+f9f74c5e-1ba7-4c7b-8acf-b41b790b2626,zama.cricket,premium,455,65,medium,low,4,namecheap,,,22/09/2026 16:21
 a962af70-a19d-43dd-b87e-6a84c3655e61,hungry.cricket,premium,455,65,high,low,6,namecheap,,,25/09/2026 06:41
 bd3f0e1c-738b-450b-99e5-0d302be39aa7,letter.cricket,available,23.59,23.59,high,low,6,namesilo,,,24/09/2026 02:40
 3980ec24-cfe5-4f83-89ba-bff026391810,doughnut.cricket,premium,437.5,,high,low,8,name.com,,,
@@ -668,16 +682,16 @@ a8e7ff23-7170-4b5c-8b91-dec434a11532,contrived.cricket,available,23.59,23.59,med
 b76e5698-c38d-459f-9b86-61d00594c2ce,recruited.cricket,available,23.59,23.59,high,low,9,namesilo,,,18/09/2026 00:53
 2e6f3ae7-2064-4d13-91d9-9273b1a36fd1,acquire.cricket,premium,448,53.92,high,low,7,namesilo,,,25/09/2026 03:22
 9aaf866c-954a-4617-b80d-c60a9482e0ef,arras.cricket,available,23.59,23.59,medium,low,5,namesilo,,,20/09/2026 08:49
-4a9d14b0-3ef3-4745-b76a-9728527494f6,gainesville.cricket,available,23.59,23.59,high,low,11,namesilo,,,27/09/2026 07:47
+4a9d14b0-3ef3-4745-b76a-9728527494f6,gainesville.cricket,available,23.59,23.59,medium,low,11,namesilo,,,27/09/2026 07:47
 c01df572-2376-48a6-b2cc-56360d1afb09,herakles.cricket,premium,448,53.92,high,low,8,namesilo,,,18/09/2026 04:05
 f5807794-e6ad-421c-83a1-aa07c410175c,plodding.cricket,available,25.98,31.98,medium,low,8,namecheap,,,08/09/2026 21:17
-665714fb-83e9-4650-b887-81ca06384862,overeager.cricket,available,25.98,31.98,high,low,9,namecheap,,,04/09/2026 20:31
+665714fb-83e9-4650-b887-81ca06384862,overeager.cricket,available,25.98,31.98,medium,low,9,namecheap,,,04/09/2026 20:31
 01587be5-2a3e-491b-8f39-8745214c0f85,referable.cricket,available,23.59,23.59,medium,low,9,namesilo,,,07/08/2026 01:28
 a20bc664-8356-455b-9fe0-8156ce567e05,blackfly.cricket,premium,448,53.92,medium,low,8,namesilo,,,19/09/2026 17:06
 044c11d7-40ce-49dc-9a4c-47eaf785c81b,asper.cricket,available,25.98,31.98,high,low,5,namecheap,,,20/09/2026 14:47
 6bd736b2-03b2-4d30-a752-d5415c77f0ba,flooring.cricket,available,23.59,23.59,high,low,8,namesilo,,,
 73841eff-41f2-4ef4-b96c-47dc1fa542c3,operant.cricket,available,23.59,23.59,high,low,7,namesilo,,,04/09/2026 16:22
-8ba5566d-67c8-42ed-b871-4505caa61562,mouthfeel.cricket,available,31.98,,high,low,10,namecheap,,,
+8ba5566d-67c8-42ed-b871-4505caa61562,mouthfeel.cricket,available,31.98,,medium,low,10,namecheap,,,
 31da2bf0-d0f2-4114-9cc4-ebefe8de6ec7,kelvin.cricket,premium,437.5,62.5,high,low,6,name.com,,,22/08/2026 15:02
 7b2522e8-57b9-4ebb-b984-ca93a939cbf6,pushful.cricket,available,23.59,23.59,high,medium,7,namesilo,,,09/09/2026 06:36
 93fab25a-fd15-46b6-835f-35bed049d765,grassy.cricket,available,25.98,31.98,high,low,6,namecheap,,,20/08/2026 18:20
@@ -698,6 +712,7 @@ c3095789-d0a5-45aa-9183-0528a2adf5a2,untainted.cricket,available,25.98,31.98,med
 8df5b179-9806-4066-ae8f-16943e535d78,plutonian.cricket,available,25.98,31.98,medium,low,9,namecheap,,,20/08/2026 21:34
 191cb574-ef5f-48aa-b801-188f2558bb0c,longroot.cricket,available,23.59,23.59,medium,low,8,namesilo,,,20/09/2026 03:40
 46ba86ba-c16d-4298-9a61-328373c49c97,sony.cricket,available,23.59,23.59,high,medium,4,namesilo,,,
+aa7f2cd3-e91c-4ccd-b02d-d8d7a7a825f9,magdalena.cricket,premium,362.45,51.95,high,low,9,spaceship,,,28/09/2026 02:17
 6fc516a7-4084-428a-84cc-c2357a134265,drunkard.cricket,available,25.98,31.98,medium,low,8,namecheap,,,14/08/2026 20:21
 e8289f56-3155-4a4d-8013-d5b8733fe999,balbriggan.cricket,available,25.98,31.98,medium,low,10,namecheap,,,21/09/2026 21:25
 69aeeff7-7f6c-4301-b2b6-74f525a28b70,dominant.cricket,premium,437.5,62.5,high,low,8,name.com,,,14/08/2026 15:41
@@ -720,7 +735,7 @@ d924e42b-5e7f-449a-9c67-92832733f9e7,measurable.cricket,available,25.98,31.98,hi
 93bcc981-ddb7-4e2d-a22a-9bf58c8ffdfb,resupine.cricket,available,23.59,23.59,medium,low,8,namesilo,,,09/09/2026 15:30
 9485a46a-8055-4c8b-883a-00b4db132398,verbs.cricket,available,23.59,23.59,medium,low,5,namesilo,,,
 b0354629-ec43-4f46-8a85-abefa08a2cc2,apar.cricket,available,23.59,23.59,medium,low,4,namesilo,,,19/09/2026 16:14
-5ec824a4-ac6d-4107-ab5a-f3b235c5b3ab,sweetish.cricket,available,23.59,23.59,high,low,8,namesilo,,,11/09/2026 05:36
+5ec824a4-ac6d-4107-ab5a-f3b235c5b3ab,sweetish.cricket,available,23.59,23.59,medium,low,8,namesilo,,,11/09/2026 05:36
 af632c55-2f98-4169-b827-7ac5975c6c7b,doctor.cricket,premium,1107,116,high,low,6,namesilo,,,
 3131b3a2-17ed-4139-a003-7d03e7eddc6b,oily.cricket,available,23.59,23.59,medium,low,4,namesilo,,,11/08/2026 11:42
 9d157226-c7d0-41ec-aad6-05846f9d3325,arrests.cricket,available,25.98,31.98,medium,low,7,namecheap,,,20/09/2026 19:12
@@ -747,10 +762,10 @@ d122efd1-3151-4a0e-b7f5-ccc93206911b,ebionite.cricket,available,23.59,23.59,medi
 db48a116-aee1-4332-83d4-e51bbc09db80,chu.cricket,premium,448,53.92,medium,low,3,namesilo,,,25/09/2026 12:27
 5a1fb281-051b-4ca0-b955-ae7640856885,bawl.cricket,available,23.59,23.59,medium,low,4,namesilo,,,23/09/2026 06:25
 fb194599-6405-424a-8ed3-270e2842e967,tutu.cricket,premium,448,53.92,high,low,4,namesilo,,,21/09/2026 22:53
-6cb4fa2d-924a-460d-bb1d-d1e24a87cc94,positional.cricket,available,23.59,23.59,high,low,10,namesilo,,,09/09/2026 00:06
+6cb4fa2d-924a-460d-bb1d-d1e24a87cc94,positional.cricket,available,23.59,23.59,medium,low,10,namesilo,,,09/09/2026 00:06
 38070203-790f-4fbe-a918-3bbbd6f38219,hardheaded.cricket,available,23.59,23.59,medium,low,10,namesilo,,,21/08/2026 00:26
 8760d59a-d8be-4d91-874b-c7a9138c8990,patient.cricket,available,23.59,23.59,high,low,7,namesilo,,,27/09/2026 03:04
-c8feb613-57dd-42e6-95ed-08360e106b8b,poulet.cricket,available,23.59,23.59,high,low,6,namesilo,,,12/08/2026 04:55
+c8feb613-57dd-42e6-95ed-08360e106b8b,poulet.cricket,available,23.59,23.59,medium,low,6,namesilo,,,12/08/2026 04:55
 9e47df6f-4e67-40f2-921f-15b8c3807b47,amorpha.cricket,available,23.59,23.59,medium,low,7,namesilo,,,18/09/2026 22:43
 a3fbb357-547e-4401-87ea-abf7c0e0655a,ate.cricket,premium,437.5,,high,low,3,name.com,,,
 6908fcad-75d2-49ec-9608-b44469aea50c,peerage.cricket,available,23.59,23.59,high,low,7,namesilo,,,22/09/2026 07:17
@@ -767,7 +782,7 @@ ae63c36f-c548-4558-9f10-dde7bc210035,maunder.cricket,available,23.59,23.59,mediu
 409474b5-5a8b-4127-ad8e-7580fcdc52b5,unbalanced.cricket,available,23.59,23.59,medium,low,10,namesilo,,,11/08/2026 01:50
 4d57696d-9862-44a8-9995-e566dd08d7df,prentice.cricket,premium,448,53.92,medium,low,8,namesilo,,,19/09/2026 22:19
 0f7594b7-7592-4665-8765-e3745981f15e,vomit.cricket,available,23.59,23.59,high,medium,5,namesilo,,,10/09/2026 07:32
-560bd1e6-9791-49ce-995a-815e45af86de,wispy.cricket,premium,448,53.92,high,low,5,namesilo,,,13/09/2026 12:43
+560bd1e6-9791-49ce-995a-815e45af86de,wispy.cricket,premium,448,53.92,medium,low,5,namesilo,,,13/09/2026 12:43
 15cae20b-ed98-408e-88cc-c727892db112,hasty.cricket,premium,437.5,62.5,medium,low,5,name.com,,,21/08/2026 01:15
 c5e7e33a-0823-43ed-8afd-c36227cc6d4c,bns.cricket,premium,455,65,high,low,3,namecheap,,,21/09/2026 14:15
 8ae26ac1-0c25-4b77-9d30-eb6cb853065d,chairman.cricket,premium,437.5,,high,low,8,name.com,,,
@@ -783,12 +798,12 @@ c1b318e0-cdb0-4a7f-9426-e83ec159547d,similitude.cricket,available,23.59,23.59,me
 50ede6a2-7621-4048-bc7c-b616661dc640,uncaused.cricket,available,23.59,23.59,medium,low,8,namesilo,,,18/08/2026 12:45
 1f8008ee-ac30-4045-9633-51ca59c1adc9,sourly.cricket,available,23.59,23.59,low,low,6,namesilo,,,16/09/2026 05:40
 8f41d708-85c5-4ff2-ba0c-2f6d6b6cb257,journeyman.cricket,premium,437.5,,high,low,10,name.com,,,
-bda0aabd-ca0b-48be-819a-ccdd53974377,unaltered.cricket,available,23.59,23.59,high,low,9,namesilo,,,12/09/2026 00:30
-fa00e987-2ec2-4644-ac98-f4419934d460,acadia.cricket,premium,437.5,62.5,high,low,6,name.com,,,16/09/2026 20:28
+bda0aabd-ca0b-48be-819a-ccdd53974377,unaltered.cricket,available,23.59,23.59,medium,low,9,namesilo,,,12/09/2026 00:30
+fa00e987-2ec2-4644-ac98-f4419934d460,acadia.cricket,premium,437.5,62.5,medium,low,6,name.com,,,16/09/2026 20:28
 0000b2fe-03c8-4f76-8005-c573d5934aa1,growing.cricket,premium,3450,116,high,low,7,namesilo,,,19/09/2026 05:23
 e9a6b38f-d3d1-4759-b342-90d71aa4a15e,churl.cricket,available,23.59,23.59,medium,low,5,namesilo,,,13/08/2026 05:00
 3f757ada-59fd-4d2a-9565-ca0b71360c55,manners.cricket,available,23.59,23.59,high,low,7,namesilo,,,27/09/2026 04:41
-34018f86-a00f-45c4-86e4-2ec9d7f909bf,conjugal.cricket,premium,437.5,62.5,high,low,8,name.com,,,12/08/2026 22:07
+34018f86-a00f-45c4-86e4-2ec9d7f909bf,conjugal.cricket,premium,437.5,62.5,medium,low,8,name.com,,,12/08/2026 22:07
 acc04781-0d72-4a1b-bede-9aa76b0ed6d3,bacteria.cricket,available,23.59,23.59,high,low,8,namesilo,,,21/09/2026 16:28
 fe4a4878-3972-4468-87e2-c5ceffafb040,discord.cricket,premium,437.5,,high,medium,7,name.com,,,
 d3fe7a0f-39a1-441b-8150-07dd2056638a,garish.cricket,available,23.59,23.59,medium,low,6,namesilo,,,18/08/2026 06:35
@@ -797,14 +812,14 @@ e1c22d6b-4584-40b2-9c3e-898fb2010c18,fiction.cricket,premium,437.5,,high,low,7,n
 d9adb99d-6d70-4dbe-9740-63aa0f147dc1,storyteller.cricket,premium,437.5,,high,low,11,name.com,,,
 3dcd1a1b-c3f3-44da-a31e-98a4cdc2d8e8,spark.cricket,premium,455,65,high,medium,5,namecheap,,,20/09/2026 01:07
 500581a1-d450-43f4-a13f-cb6057c67278,unfit.cricket,premium,448,53.92,medium,low,5,namesilo,,,12/09/2026 10:23
-0de2d1f8-3271-4b76-8c72-4b0b2fd25a9a,kilogramme.cricket,available,31.98,,high,low,10,namecheap,,,
+0de2d1f8-3271-4b76-8c72-4b0b2fd25a9a,kilogramme.cricket,available,31.98,,medium,low,10,namecheap,,,
 67fa28fb-e2b9-4160-b1a4-6d762e5aa2d1,impulse.cricket,premium,437.5,,high,low,7,name.com,,,
 99a65ead-7f3f-4fee-8805-212ff4d52163,concern.cricket,premium,437.5,,high,low,7,name.com,,,
 dca34e5a-589a-43c9-82c3-0d3674d6e094,hirsch.cricket,premium,455,65,high,low,6,namecheap,,,27/09/2026 07:27
 b020b802-23df-4aa7-9447-b11b0c8b90e2,apodemus.cricket,available,25.98,31.98,medium,low,8,namecheap,,,19/09/2026 18:19
 a9ea8816-02b9-4704-bef3-d9a8ef3fb77f,tensile.cricket,premium,448,53.92,medium,low,7,namesilo,,,11/09/2026 11:30
 e898c3fe-9576-4115-bb08-5920bdc5c27a,neuronal.cricket,available,23.59,23.59,medium,low,8,namesilo,,,03/09/2026 16:20
-405fd807-cb6b-4774-96ec-bcbad54183b1,bethe.cricket,available,23.59,23.59,high,low,5,namesilo,,,23/09/2026 11:12
+405fd807-cb6b-4774-96ec-bcbad54183b1,bethe.cricket,available,23.59,23.59,medium,low,5,namesilo,,,23/09/2026 11:12
 4b312f2e-4594-4e04-8970-169489101b8d,joey.cricket,premium,448,53.92,high,low,4,namesilo,,,25/09/2026 11:16
 67b56734-d7f0-4c3e-930d-e3693b770118,omit.cricket,premium,437.5,,high,low,4,name.com,,,
 bf084c3d-5c49-465e-9067-69ca432c1bdd,archaic.cricket,premium,437.5,62.5,high,low,7,name.com,,,
@@ -812,12 +827,12 @@ bf084c3d-5c49-465e-9067-69ca432c1bdd,archaic.cricket,premium,437.5,62.5,high,low
 6fd6c2e9-31b9-449e-bdd8-885b7c336c20,stephanie.cricket,premium,448,53.92,high,low,9,namesilo,,,25/09/2026 14:12
 10dd30df-540e-4a3b-894c-9b682eb5eb75,starvation.cricket,available,25.98,31.98,medium,low,10,namecheap,,,10/09/2026 19:06
 411e2342-0f94-471c-8807-d38f2bf2dca6,berk.cricket,available,23.59,23.59,medium,low,4,namesilo,,,23/09/2026 09:31
-bbb451a1-567d-42ce-be2b-d5cb8d24575e,pitfall.cricket,premium,437.5,,high,low,7,name.com,,,
+bbb451a1-567d-42ce-be2b-d5cb8d24575e,pitfall.cricket,premium,437.5,,medium,low,7,name.com,,,
 d8909079-66be-44f6-83bc-bb7925dac3a2,plaguey.cricket,available,,,medium,low,7,,,,
 e0e656ce-cec1-4453-bf9c-08df498f14f4,aesir.cricket,available,23.59,23.59,medium,low,5,namesilo,,,17/09/2026 13:23
 34fdf46e-8a8b-4482-9487-a272a4a498d1,pseudo.cricket,premium,448,53.92,high,low,6,namesilo,,,09/09/2026 04:56
 4218fd34-14a4-43d3-a509-8a7e264a229d,commonsense.cricket,premium,437.5,,high,low,12,name.com,,,
-5fd6dd78-3f60-4bf9-99fc-21c610e77566,emboss.cricket,premium,437.5,62.5,high,low,6,name.com,,,10/08/2026 20:42
+5fd6dd78-3f60-4bf9-99fc-21c610e77566,emboss.cricket,premium,437.5,62.5,medium,low,6,name.com,,,10/08/2026 20:42
 45c2670e-a63c-40c1-888f-a615583f1561,bounded.cricket,available,23.59,23.59,high,low,7,namesilo,,,10/08/2026 21:52
 f9805d4a-9a37-4930-9b35-57a6629ab2f8,dear.cricket,premium,437.5,62.5,high,low,4,name.com,,,22/09/2026 19:24
 121ef04e-7ffe-4a3b-ae27-ace693e6195c,fulgurant.cricket,available,34.99,37.99,medium,low,9,name.com,,,13/08/2026 18:59
@@ -833,6 +848,7 @@ f62e51e9-973d-42fd-b1e2-cbf0dbefe13c,board.cricket,available,23.59,23.59,high,lo
 6b81891f-434b-4c43-8482-2654c0ab3ead,sea.cricket,premium,437.5,,high,low,3,name.com,,,
 c47434fc-62f9-488f-8f90-d7017dd99183,fugly.cricket,premium,437.5,62.5,medium,low,5,name.com,,,18/08/2026 17:49
 9c5bfb28-36cb-41d5-a6e7-bc0e79d26260,thanksgiving.cricket,premium,448,53.92,high,low,12,namesilo,,,16/09/2026 10:18
+4778be67-b01b-45d8-bf6c-5bb47e7bd57a,breakdown.cricket,premium,362.45,51.95,high,low,9,spaceship,,,28/09/2026 01:08
 073d0ef6-3eb5-4067-b275-e74062face6b,unbuttoned.cricket,premium,448,53.92,medium,low,10,namesilo,,,12/09/2026 04:42
 fa23234f-73f2-4090-82a0-345d5fc692a3,actaea.cricket,available,23.59,23.59,medium,low,6,namesilo,,,17/09/2026 04:11
 9a12ebb7-b3bb-4b1c-ae94-8724c8b2db8a,prosily.cricket,available,25.98,31.98,low,low,7,namecheap,,,15/09/2026 21:46
@@ -850,9 +866,10 @@ a4d45bd7-8d32-4f47-83e5-90b1df83e23d,reliably.cricket,available,23.59,23.59,high
 5a783b83-9c71-421e-8176-fdd692f377a0,fusty.cricket,available,23.59,23.59,low,low,5,namesilo,,,18/08/2026 16:42
 da63519f-89ec-43bf-9d37-dac74e7c5724,banquette.cricket,available,25.98,31.98,medium,low,9,namecheap,,,22/09/2026 03:08
 5646e50c-ab9f-4d4e-9729-cd9f6de23fe1,opera.cricket,premium,437.5,62.5,high,low,5,name.com,,,25/09/2026 02:37
+0cf92442-1f0e-418b-beac-2c664bdf615b,husbands.cricket,available,20.18,20.18,medium,low,8,cloudflare,,,27/09/2026 18:17
 52abf836-fa0b-4acd-bd13-b4e947a4656b,soto.cricket,premium,448,53.92,high,low,4,namesilo,,,27/09/2026 07:28
 34d07cde-00ca-4909-bc20-63e4aceaf0c9,halal.cricket,available,23.59,23.59,high,low,5,namesilo,,,20/08/2026 22:18
-07538b66-006f-493c-b80c-dcfab5e78b24,instruments.cricket,premium,448,53.92,high,low,11,namesilo,,,25/09/2026 16:57
+07538b66-006f-493c-b80c-dcfab5e78b24,instruments.cricket,premium,448,53.92,medium,low,11,namesilo,,,25/09/2026 16:57
 315353b4-14b1-4928-941b-8f0a2257df99,jammed.cricket,available,23.59,23.59,medium,low,6,namesilo,,,22/08/2026 12:07
 678b155e-ea98-4dbb-83c0-8ec822753e04,innate.cricket,premium,437.5,62.5,high,low,6,name.com,,,12/08/2026 21:44
 dc9a6ced-a746-402b-9521-58827938bca5,goat.cricket,premium,437.5,,high,medium,4,name.com,,,
@@ -868,9 +885,11 @@ fa262afb-f90c-472d-b03d-c11fece266ca,roofs.cricket,available,23.59,23.59,medium,
 34d1f3b5-5e20-49a7-bb33-d7f883537e84,investors.cricket,available,23.59,23.59,high,low,9,namesilo,,,
 c4816dce-ab8c-4794-8cab-44d10013b02d,twine.cricket,premium,437.5,,medium,low,5,name.com,,,
 3662a754-10af-4a5a-8bc9-c9eff653f6ac,hire.cricket,premium,448,53.92,high,low,4,namesilo,,,24/09/2026 13:49
-094734fb-949c-4f6b-bf3c-6e9a51657c3b,rimbaud.cricket,available,25.98,31.98,high,low,7,namecheap,,,20/09/2026 11:03
+094734fb-949c-4f6b-bf3c-6e9a51657c3b,rimbaud.cricket,available,25.98,31.98,medium,low,7,namecheap,,,20/09/2026 11:03
 97796cdb-91ea-4a75-8d41-8b97cc2b696b,aeration.cricket,premium,448,53.92,medium,low,8,namesilo,,,17/09/2026 12:46
 c754f7ae-81f5-49c8-9b12-bb36704219d6,hum.cricket,premium,437.5,,high,low,3,name.com,,,
+c83a3657-0804-4379-9868-362b32a24b4c,vessel.cricket,premium,362.45,51.95,high,low,6,spaceship,,,27/09/2026 16:11
+e5e07078-7979-444b-90ef-e4bede24e829,aus.cricket,resell,,,high,low,3,,,,27/09/2026 18:53
 f82a672e-209d-43c4-8b0e-be1b0d721da3,northern.cricket,available,23.59,23.59,high,low,8,namesilo,,,25/09/2026 23:11
 099d4989-9593-4921-867d-3a0b095ed84e,greyed.cricket,available,25.98,31.98,medium,low,6,namecheap,,,20/08/2026 20:04
 90de7814-716e-46a2-aad6-fb1842db0338,heralded.cricket,available,23.59,23.59,medium,low,8,namesilo,,,21/08/2026 06:51
@@ -887,18 +906,18 @@ b25ea4f1-61c5-4b48-a66d-919de595b8cc,responsible.cricket,premium,448,53.92,high,
 8826373c-d6a2-4542-8ca4-44b165e730af,moves.cricket,premium,455,65,high,low,5,namecheap,,,25/09/2026 21:00
 bb8ec326-ef51-4488-a376-3d95d52b829b,overjoy.cricket,available,23.59,23.59,high,low,7,namesilo,,,
 918c00e9-ee0e-4ae5-a287-2101b5f717b1,beamish.cricket,premium,437.5,62.5,medium,low,7,name.com,,,09/08/2026 04:08
-2f8b1b07-8e71-464e-a30d-b12cec8eafe0,sabbatic.cricket,available,23.59,23.59,high,low,8,namesilo,,,09/09/2026 20:32
+2f8b1b07-8e71-464e-a30d-b12cec8eafe0,sabbatic.cricket,available,23.59,23.59,medium,low,8,namesilo,,,09/09/2026 20:32
 04e77065-df61-43b6-ac06-4c09380714fc,multiplication.cricket,premium,437.5,,medium,low,14,name.com,,,
 a1b7f8b3-f5cb-4b38-bfd2-849d7d3719b0,witch.cricket,premium,437.5,62.5,high,low,5,name.com,,,21/08/2026 07:44
 c939b8ab-d0f2-4187-bd7c-6c3b9c327d63,limpid.cricket,available,23.59,23.59,high,low,6,namesilo,,,13/08/2026 09:41
 c21465f0-974e-4c35-8406-6faefec3f22b,lopez.cricket,premium,448,53.92,high,low,5,namesilo,,,25/09/2026 12:44
 1b3629a2-4439-4dbb-9a98-19a744ed1f0d,refunds.cricket,available,23.59,23.59,medium,low,7,namesilo,,,20/09/2026 14:13
-d7ef1257-183a-4d95-ae41-5dcaaf182743,belfry.cricket,available,23.59,23.59,high,low,6,namesilo,,,23/09/2026 04:56
+d7ef1257-183a-4d95-ae41-5dcaaf182743,belfry.cricket,available,23.59,23.59,medium,low,6,namesilo,,,23/09/2026 04:56
 e5d1ab89-e646-4853-8b7c-4627c472a50d,breaker.cricket,premium,448,53.92,high,low,7,namesilo,,,24/09/2026 08:24
 50542988-b420-4020-a7e3-38e89367b176,uncreative.cricket,available,23.59,23.59,medium,low,10,namesilo,,,12/09/2026 06:24
 3479d4ea-baeb-43e6-bda3-ed8ed25ccc90,procedures.cricket,available,23.59,23.59,medium,low,10,namesilo,,,18/09/2026 17:33
 4a92f08c-ab32-4163-86bf-ee5df2160f70,erogenous.cricket,available,23.59,23.59,medium,low,9,namesilo,,,17/08/2026 12:28
-62f33473-e18c-444e-89b0-cb1fcedf6f18,elderberry.cricket,premium,448,53.92,high,low,10,namesilo,,,24/09/2026 00:39
+62f33473-e18c-444e-89b0-cb1fcedf6f18,elderberry.cricket,premium,448,53.92,medium,low,10,namesilo,,,24/09/2026 00:39
 3f5213d1-e8f8-4d0b-9138-b7f15615d90f,weeks.cricket,premium,437.5,,medium,low,5,name.com,,,
 31dcb1f0-d58e-4f21-b208-8c476766f9dd,initiate.cricket,premium,437.5,62.5,high,low,8,name.com,,,17/08/2026 09:35
 c3c94b86-ed54-48a1-bde2-0a9591fc7593,unnatural.cricket,premium,437.5,62.5,medium,low,9,name.com,,,
@@ -910,18 +929,19 @@ cc129200-a7c2-42fd-9f00-24e658bc7496,anastrophe.cricket,available,23.59,23.59,me
 b050b7a3-ed4f-4bcf-be9d-2074a43be3f6,leisurely.cricket,available,23.59,23.59,high,low,9,namesilo,,,14/08/2026 23:02
 003805ca-c8c3-4ed0-b31a-550030bc9c73,refrigerator.cricket,available,23.59,23.59,high,low,12,namesilo,,,
 f3b095fb-031e-42e1-add4-cd606f920ba0,mammoth.cricket,premium,437.5,62.5,high,low,7,name.com,,,18/08/2026 23:30
+f4ff9234-f340-494d-ad63-5ca8d2094595,reese.cricket,premium,,,high,low,5,,,,27/09/2026 20:02
 fc989bc3-1ccb-4429-a12d-f4d0b076e7e0,blossoming.cricket,available,23.59,23.59,high,low,10,namesilo,,,18/08/2026 09:04
 1e207834-6aa7-4e91-a386-7c9f448c6277,awning.cricket,available,25.98,31.98,high,low,6,namecheap,,,21/09/2026 10:12
 09e3e43a-b26b-4912-9444-10d0b4206c81,decoders.cricket,available,23.59,23.59,medium,low,8,namesilo,,,20/09/2026 07:41
 468ff7ef-b692-4371-9d8b-a6a673a1880d,monarch.cricket,premium,448,53.92,high,medium,7,namesilo,,,10/09/2026 14:59
 57bf410d-1252-4a03-8b91-8208746128ae,observable.cricket,available,23.59,23.59,high,low,10,namesilo,,,03/09/2026 23:59
-00b71044-7dbe-4d99-ba78-cf543a243558,beatniks.cricket,available,25.98,31.98,high,low,8,namecheap,,,22/09/2026 21:34
+00b71044-7dbe-4d99-ba78-cf543a243558,beatniks.cricket,available,25.98,31.98,medium,low,8,namecheap,,,22/09/2026 21:34
 9e4b1fa4-f906-4157-9dd7-d22369b0ba39,what.cricket,premium,437.5,,high,low,4,name.com,,,
 b09c5127-4874-4cd9-89e1-ae5e7120b1e2,maxilla.cricket,premium,437.5,62.5,medium,low,7,name.com,,,24/08/2026 17:52
 1663d886-533f-4c1d-aa55-15cde5ad717d,royal.cricket,premium,6500,130,high,high,5,namecheap,,,09/09/2026 12:48
 4530eeaa-1b64-4401-a06f-fbdc19addb49,exercise.cricket,available,23.59,23.59,high,low,8,namesilo,,,19/09/2026 09:45
 90982118-c589-4c60-b275-a48ae5bd3657,remembered.cricket,available,23.59,23.59,high,low,10,namesilo,,,17/09/2026 12:04
-22e92d35-4f20-4757-93c6-5ce0ca3d5810,foolhardy.cricket,available,23.59,23.59,high,low,9,namesilo,,,18/08/2026 10:28
+22e92d35-4f20-4757-93c6-5ce0ca3d5810,foolhardy.cricket,available,23.59,23.59,medium,low,9,namesilo,,,18/08/2026 10:28
 6f38724b-26da-4d25-b0b5-7143473c565f,relies.cricket,available,23.59,23.59,medium,low,6,namesilo,,,20/09/2026 06:27
 fd9ab3a8-309d-4d42-9bdf-ef2f88d4aeab,humongous.cricket,premium,437.5,62.5,medium,low,9,name.com,,,08/08/2026 12:58
 9055f873-94bb-4c4e-b099-70a92ba165d3,parks.cricket,premium,1107,116,high,low,5,namesilo,,,
@@ -979,23 +999,3 @@ cd7c1a43-3ad8-4d9c-ba66-c32ffccd63d0,ineptitude.cricket,available,23.59,23.59,me
 038aeed7-cbb4-4cff-8b2c-47c3c91ef55e,scotch.cricket,available,23.59,23.59,high,low,6,namesilo,,,24/09/2026 21:59
 7cc3bc8d-1bdf-4558-b9c9-3f433c346162,fadeout.cricket,premium,448,53.92,medium,low,7,namesilo,,,09/09/2026 11:18
 7e2e1651-84c5-4945-bef6-8c26210e12bb,butch.cricket,premium,437.5,62.5,high,low,5,name.com,,,11/08/2026 11:29
-a574f4e4-b8da-44c3-89df-b16daa022d9d,collegial.cricket,available,23.59,23.59,medium,low,9,namesilo,,,12/08/2026 17:06
-d80c17fd-99b6-4f93-9c49-faf9fbede765,whimsy.cricket,premium,448,53.92,high,low,6,namesilo,,,20/09/2026 00:42
-f2947b53-6170-4f95-ad3c-e4342c8114af,disjoined.cricket,available,23.59,23.59,medium,low,9,namesilo,,,14/08/2026 11:07
-4caf2a21-b6d5-4c77-b7c3-c9ca7c444b6b,cantaloupe.cricket,premium,448,53.92,high,low,10,namesilo,,,24/09/2026 12:07
-28d18f04-604d-4df1-9591-5042cc518bcb,lloyd.cricket,premium,448,53.92,high,low,5,namesilo,,,25/09/2026 06:57
-fd5eabcb-29cf-460c-ad92-d3a447cad1ec,suchlike.cricket,available,23.59,23.59,medium,low,8,namesilo,,,11/09/2026 01:00
-d4f9a5ab-9da7-4881-914f-e4ea56da74c3,disconnect.cricket,premium,437.5,,high,low,10,name.com,,,
-5f8088bb-cb57-4209-b18c-fab0be60b7d0,hierarch.cricket,available,23.59,23.59,medium,low,8,namesilo,,,20/09/2026 02:30
-b076094d-8b78-43ba-8f23-193d79a26bad,builder.cricket,premium,437.5,,high,low,7,name.com,,,
-ce48d69a-5696-4b3d-bf46-0705ef2adadf,aave.cricket,available,23.59,23.59,medium,low,4,namesilo,,,16/09/2026 13:38
-d25f9d21-545b-4dff-b959-4761ac3007ae,hulky.cricket,available,23.59,23.59,medium,low,5,namesilo,,,21/08/2026 14:48
-904d8111-154e-4536-9d69-1abae8dfaa98,command.cricket,premium,448,53.92,high,low,7,namesilo,,,23/09/2026 13:28
-b5a4efa7-263e-41ca-8da4-721cf20dea6a,ageing.cricket,available,25.98,31.98,high,low,6,namecheap,,,21/09/2026 22:43
-3f14a6a1-4e03-4413-bf4d-ec163aa5c960,dreary.cricket,available,23.59,23.59,medium,low,6,namesilo,,,14/08/2026 11:47
-ec60d6dc-4c47-4076-aff2-4938054826e5,raining.cricket,available,23.59,23.59,high,low,7,namesilo,,,19/09/2026 11:06
-b9317915-46a4-4377-ac15-2e39cb3890d6,coupons.cricket,available,23.59,23.59,medium,low,7,namesilo,,,21/09/2026 07:55
-1260333e-cbfc-4db7-8a8e-2789d4344cb9,gloria.cricket,premium,455,65,high,low,6,namecheap,,,27/09/2026 02:39
-d63f9a76-2d8b-4c5c-a45c-eeb6fa350509,dural.cricket,premium,437.5,62.5,medium,low,5,name.com,,,14/08/2026 21:30
-c0491400-319b-4b5a-9b6e-a627d88c733a,agapanthus.cricket,available,23.59,23.59,medium,low,10,namesilo,,,17/09/2026 16:11
-06002670-6abe-4981-bb88-4d97ce880549,kirk.cricket,premium,448,53.92,high,low,4,namesilo,,,25/09/2026 08:51
